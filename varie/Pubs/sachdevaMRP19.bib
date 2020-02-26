@@ -1,0 +1,38 @@
+@inproceedings{SachdevaMRP19,
+  author =	 {Noveen Sachdeva and Giuseppe Manco and Ettore
+                  Ritacco and Vikram Pudi},
+  title =	 {Sequential Variational Autoencoders for
+                  Collaborative Filtering},
+  booktitle =	 {Proceedings of the Twelfth {ACM} International
+                  Conference on Web Search and Data Mining, {WSDM}
+                  2019, Melbourne, VIC, Australia, February 11-15,
+                  2019},
+  pages =	 {600--608},
+  year =	 {2019},
+  url =		 {https://arxiv.org/abs/1811.09975},
+  doi =		 {10.1145/3289600.3291007},
+  abstract =	 {Variational autoencoders were proven successful in
+                  domains such as computer vision and speech
+                  processing. Their adoption for modeling user
+                  preferences is still unexplored, although recently
+                  it is starting to gain attention in the current
+                  literature. In this work, we propose a model which
+                  extends variational autoencoders by exploiting the
+                  rich information present in the past preference
+                  history. We introduce a recurrent version of the
+                  VAE, where instead of passing a subset of the whole
+                  history regardless of temporal dependencies, we
+                  rather pass the consumption sequence subset through
+                  a recurrent neural network. At each time-step of the
+                  RNN, the sequence is fed through a series of
+                  fully-connected layers, the output of which models
+                  the probability distribution of the most likely
+                  future preferences. We show that handling temporal
+                  information is crucial for improving the accuracy of
+                  the VAE: In fact, our model beats the current
+                  state-of-the-art by valuable margins because of its
+                  ability to capture temporal dependencies among the
+                  user-consumption sequence using the recurrent
+                  encoder still keeping the fundamentals of
+                  variational autoencoders intact.}
+}

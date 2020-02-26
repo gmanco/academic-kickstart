@@ -41,7 +41,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -54,7 +54,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/gmanco/gmanco.github.io", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "giuseppe.manco@icar.cnr.it"
+phone = "+39 0984 493845‬"
+address = "Via Bucci 8-9c, Rende CS 87036, Italy"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -81,10 +81,10 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/beman70"},
+#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -103,10 +103,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "39.35836"
+longitude = "16.22636"
 zoom = 15
 
 ############################
@@ -116,7 +116,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["custom"]
 plugins_js  = []
 
 ############################

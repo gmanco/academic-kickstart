@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Giuseppe Manco
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director of Research at the Italian National Research Council
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Istituto di Calcolo e Reti ad Alte Prestazioni (ICAR-CNR)
+  url: "http://www.icar.cnr.it"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: His research interests include User Profiling and Behavioral Modeling, Social Network Analysis, Information Propagation and Diffusion, Recommender Systems, Machine Learning for Cybersecurity. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Behavioral Modeling
+- Recommender Systems
+- Cybersecurity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Pisa
+    year: 2001
+  - course: MSc in Computer Science
+    institution: University of Pisa
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +44,22 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/beman70
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/giuseppe-manco-89b47123/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=F-NXHA8AAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9672-3833
+- icon: researchgate
+  icon_pack: ai
+  link:  https://www.researchgate.net/profile/Giuseppe_Manco3
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gmanco
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Giuseppe Manco is Director of Research at the [Institute of High Performance Computing and Networks](http://www.icar.cnr.it) of the [National Research Council](http://www.cnr.it) of Italy. 
+His research interests include User Profiling and Behavioral Modeling, Social Network Analysis, Information Propagation and Diffusion, Recommender Systems, Machine Learning for Cybersecurity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Expert on data science, data analytics and enabling technologies for data analytics. Interested in new frontiers of Computer Science and Technology aimed at analyzing Complex Big Data. Co-founder of [Open Knowledge Technologies (OKT)](https://www.okt-srl.com/), a spin-off company of [University of Calabria](http://www.unical.it) aimed at bringing innovation from academia to industry on the specific topics of Artificial Intelligence and Cybersecurity. 

@@ -1,0 +1,442 @@
+% Encoding: UTF-8
+
+@InCollection{Barbieri2011,
+  author    = {Nicola Barbieri and Giuseppe Manco},
+  title     = {An Analysis of Probabilistic Methods for Top-N Recommendation in Collaborative Filtering},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases},
+  year      = {2011},
+  publisher = {Springer Berlin Heidelberg},
+  pages     = {172--187},
+  doi       = {10.1007/978-3-642-23780-5_21},
+  abstract  = {In this work we perform an analysis of probabilistic approaches to recommendation upon a different validation perspective, which focuses on accuracy metrics such as recall and precision of the recommendation list. Traditionally, state-of-art approches to recommendations consider the recommendation process from a “missing value prediction” perspective. This approach simplifies the model validation phase that is based on the minimization of standard error metrics such as RMSE. However, recent studies have pointed several limitations of this approach, showing that a lower RMSE does not necessarily imply improvements in terms of specific recommendations. We demonstrate that the underlying probabilistic framework offers several advantages over traditional methods, in terms of flexibility in the generation of the recommendation list and consequently in the accuracy of recommendation.},
+}
+
+@InCollection{Costa2014,
+  author    = {Gianni Costa and Giuseppe Manco and Riccardo Ortale},
+  title     = {A Generative Bayesian Model for Item and User Recommendation in Social Rating Networks with Trust Relationships},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases},
+  year      = {2014},
+  publisher = {Springer Berlin Heidelberg},
+  pages     = {258--273},
+  doi       = {10.1007/978-3-662-44848-9_17},
+  abstract  = {A Bayesian generative model is presented for recommending interesting items and trustworthy users to the targeted users in social rating networks with asymmetric and directed trust relationships. The proposed model is the first unified approach to the combination of the two recommendation tasks. Within the devised model, each user is associated with two latent-factor vectors, i.e., her susceptibility and expertise. Items are also associated with corresponding latent-factor vector representations. The probabilistic factorization of the rating data and trust relationships is exploited to infer user susceptibility and expertise. Statistical social-network modeling is instead used to constrain the trust relationships from a user to another to be governed by their respective susceptibility and expertise. The inherently ambiguous meaning of unobserved trust relationships between users is suitably disambiguated. An intensive comparative experimentation on real-world social rating networks with trust relationships demonstrates the superior predictive performance of the presented model in terms of RMSE and AUC.},
+}
+
+@InProceedings{Barbieri2011a,
+  author    = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco},
+  title     = {A Probabilistic Hierarchical Approach for Pattern Discovery in Collaborative Filtering Data},
+  booktitle = {Proceedings of the 2011 {SIAM} International Conference on Data Mining},
+  year      = {2011},
+  publisher = {Society for Industrial and Applied Mathematics},
+  month     = {apr},
+  doi       = {10.1137/1.9781611972818.54},
+  abstract  = {This paper presents a hierarchical probabilistic approach to collaborative filtering which allows the discovery and analysis of both global patterns (i.e., tendency of some products of being ‘universally appreciated’) and local patterns (tendency of users within a community to express a common preference on the same group of items). We reformulate the collaborative filtering approach as a clustering problem in a high-dimensional setting, and propose a probabilistic approach to model the data. The core of our approach is a co-clustering strategy, arranged in a hierarchical fashion: first, user communities are discovered, and then the information provided by each user community is used to discover topics, grouping items into categories. The resulting probabilistic framework can be used for detecting interesting relationships between users and items within user communities. The experimental evaluation shows that the proposed model achieves a competitive prediction accuracy with respect to the state-of-art collaborative filtering approaches.},
+}
+
+@InProceedings{Barbieri2012,
+  author    = {Nicola Barbieri and Giuseppe Manco and Riccardo Ortale and Ettore Ritacco},
+  title     = {Balancing Prediction and Recommendation Accuracy: Hierarchical Latent Factors for Preference Data},
+  booktitle = {Proceedings of the 2012 {SIAM} International Conference on Data Mining},
+  year      = {2012},
+  publisher = {Society for Industrial and Applied Mathematics},
+  month     = {apr},
+  doi       = {10.1137/1.9781611972825.89},
+  abstract  = {Recent works in Recommender Systems (RS) have investigated the relationships between the prediction accuracy, i.e. the ability of a RS to minimize a cost function (for instance the RMSE measure) in estimating users' preferences, and the accuracy of the recommendation list provided to users. State-of-the-art recommendation algorithms, which focus on the minimization of RMSE, have shown to achieve weak results from the recommendation accuracy perspective, and vice versa. In this work we present a novel Bayesian probabilistic hierarchical approach for users' preference data, which is designed to overcome the limitation of current methodologies and thus to meet both prediction and recommendation accuracy. According to the generative semantics of this technique, each user is modeled as a random mixture over latent factors, which identify users community interests. Each individual user community is then modeled as a mixture of topics, which capture the preferences of the members on a set of items. We provide two different formalization of the basic hierarchical model: BH-Forced focuses on rating prediction, while BH-Free models both the popularity of items and the distribution over item ratings. The combined modeling of item popularity and rating provides a powerful framework for the generation of highly accurate recommendations. An extensive evaluation over two popular benchmark datasets reveals the effectiveness and the quality of the proposed algorithms, showing that BH-Free realizes the most satisfactory compromise between prediction and recommendation accuracy with respect to several state-of-the-art competitors.
+
+
+Read More: https://epubs.siam.org/doi/10.1137/1.9781611972825.89},
+}
+
+@InProceedings{Barbieri2013,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Cascade-based community detection},
+  booktitle = {Proceedings of the sixth {ACM} international conference on Web search and data mining - {WSDM} {\textquotesingle}13},
+  year      = {2013},
+  publisher = {{ACM} Press},
+  doi       = {10.1145/2433396.2433403},
+  abstract  = {Given a directed social graph and a set of past informa- tion cascades observed over the graph, we study the novel problem of detecting modules of the graph (communities of nodes), that also explain the cascades. Our key observation is that both information propagation and social ties forma- tion in a social network can be explained according to the same latent factor, which ultimately guide a user behavior within the network. Based on this observation, we propose the Community-Cascade Network (CCN) model, a stochas- tic mixture membership generative model that can fit, at the same time, the social graph and the observed set of cas- cades. Our model produces overlapping communities and for each node, its level of authority and passive interest in each community it belongs. For learning the parameters of the CCN model, we devise a Generalized Expectation Maximization procedure. We then apply our model to real-world social networks and in- formation cascades: the results witness the validity of the proposed CCN model, providing useful insights on its signif- icance for analyzing social behavior.},
+}
+
+@InProceedings{Barbieri2013a,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Influence-Based Network-Oblivious Community Detection},
+  booktitle = {2013 {IEEE} 13th International Conference on Data Mining},
+  year      = {2013},
+  publisher = {{IEEE}},
+  month     = {dec},
+  doi       = {10.1109/icdm.2013.164},
+  abstract  = {How can we detect communities when the social graphs is not available? We tackle this problem by modeling social contagion from a log of user activity, that is a dataset of tuples (u, i, t) recording the fact that user u "adopted" item i at time t. This is the only input to our problem. We propose a stochastic framework which assumes that item adoptions are governed by un underlying diffusion process over the unobserved social network, and that such diffusion model is based on community-level influence. By fitting the model parameters to the user activity log, we learn the community membership and the level of influence of each user in each community. This allows to identify for each community the "key" users, i.e., the leaders which are most likely to influence the rest of the community to adopt a certain item. The general framework can be instantiated with different diffusion models. In this paper we define two models: the extension to the community level of the classic (discrete time) Independent Cascade model, and a model that focuses on the time delay between adoptions. To the best of our knowledge, this is the first work studying community detection without the network.},
+}
+
+@InProceedings{Barbieri2011b,
+  author    = {Nicola Barbieri and Gianni Costa and Giuseppe Manco and Riccardo Ortale},
+  title     = {Modeling item selection and relevance for accurate recommendations},
+  booktitle = {Proceedings of the fifth {ACM} conference on Recommender systems - {RecSys} {\textquotesingle}11},
+  year      = {2011},
+  publisher = {{ACM} Press},
+  doi       = {10.1145/2043932.2043941},
+  abstract  = {We propose a bayesian probabilistic model for explicit preference data. The model introduces a generative process, which takes into account both item selection and rating emission to gather into communities those users who experience the same items and tend to adopt the same rating pattern. Each user is modeled as a random mixture of topics, where each topic is characterized by a distribution modeling the popularity of items within the respective user-community and by a distribution over preference values for those items. The proposed model can be associated with a novel item-relevance ranking criterion, which is based both on item popularity and user's preferences. We show that the proposed model, equipped with the new ranking criterion, outperforms state-of-art approaches in terms of accuracy of the recommendation list provided to users on standard benchmark datasets.},
+}
+
+@InProceedings{BarbieriBCMR12,
+  author    = {Nicola Barbieri and Antonio Bevacqua and Marco Carnuccio and Giuseppe Manco and Ettore Ritacco},
+  title     = {Probabilistic Sequence Modeling for Recommender Systems},
+  booktitle = {KDIR 2012 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval, Barcelona, Spain, 4 - 7 October, 2012},
+  year      = {2012},
+  pages     = {75-84},
+  abstract  = {Probabilistic topic models are widely used in different contexts to uncover the hidden structure in large text corpora. One of the main features of these models is that generative process follows a bag-of-words assump- tion, i.e each token is independent from the previous one. We extend the popular Latent Dirichlet Allocation model by exploiting a conditional Markovian assumptions, where the token generation depends on the current topic and on the previous token. The resulting model is capable of accommodating temporal correlations among tokens, which better model user behavior. This is particularly significant in a collaborative filtering context, where the choice of a user can be exploited for recommendation purposes, and hence a more realistic and accurate modeling enables better recommendations. For the mentioned model we present a fast Gibbs Sampling procedure for the parameters estimation. A thorough experimental evaluation over real-word data shows the performance advantages, in terms of recall and precision, of the proposed sequence-modeling approach. },
+}
+
+@InProceedings{Sachdeva2019,
+  author    = {Noveen Sachdeva and Giuseppe Manco and Ettore Ritacco and Vikram Pudi},
+  title     = {Sequential Variational Autoencoders for Collaborative Filtering},
+  booktitle = {Proceedings of the Twelfth {ACM} International Conference on Web Search and Data Mining - {WSDM} {\textquotesingle}19},
+  year      = {2019},
+  publisher = {{ACM} Press},
+  doi       = {10.1145/3289600.3291007},
+  url       = {https://arxiv.org/abs/1811.09975},
+  abstract  = {Variational autoencoders were proven successful in domains such as computer vision and speech processing. Their adoption for modeling user preferences is still unexplored, although recently it is starting to gain attention in the current literature. In this work, we propose a model which extends variational autoencoders by exploiting the rich information present in the past preference history. We introduce a recurrent version of the VAE, where instead of passing a subset of the whole history regardless of temporal dependencies, we rather pass the consumption sequence subset through a recurrent neural network. At each time-step of the RNN, the sequence is fed through a series of fully-connected layers, the output of which models the probability distribution of the most likely future preferences. We show that handling temporal information is crucial for improving the accuracy of the VAE: In fact, our model beats the current state-of-the-art by valuable margins because of its ability to capture temporal dependencies among the user-consumption sequence using the recurrent encoder still keeping the fundamentals of variational autoencoders intact.},
+}
+
+@InProceedings{Barbieri2012a,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Topic-Aware Social Influence Propagation Models},
+  booktitle = {2012 {IEEE} 12th International Conference on Data Mining},
+  year      = {2012},
+  publisher = {{IEEE}},
+  month     = {dec},
+  doi       = {10.1109/icdm.2012.122},
+  abstract  = {We study social influence from a topic modeling perspective. We introduce novel topic-aware influence-driven propagation models that experimentally result to be more accurate in describing real-world cascades than the standard propagation models studied in the literature. In particular, we first propose simple topic-aware extensions of the well-known Independent Cascade and Linear Threshold models. Next, we propose a different approach explicitly modeling authoritativeness, influence and relevance under a topic-aware perspective. We devise methods to learn the parameters of the models from a dataset of past propagations. Our experimentation confirms the high accuracy of the proposed models and learning schemes.},
+}
+
+@Article{Manco2019,
+  author    = {Giuseppe Manco and Ettore Ritacco and Nicola Barbieri},
+  title     = {A Factorization Approach for Survival Analysis on Diffusion Networks},
+  journal   = {{IEEE} Transactions on Knowledge and Data Engineering},
+  year      = {2019},
+  pages     = {1--1},
+  doi       = {10.1109/tkde.2019.2924369},
+  abstract  = {In this paper we propose a survival factorization framework that models information cascades by tying together social influence patterns, topical structure and temporal dynamics. This is achieved through the introduction of a latent space which encodes: (a) the relevance of an information cascade on a topic; (b) the topical authoritativeness and the susceptibility of each individual involved in the information cascade, and (c) temporal topical patterns. By exploiting the cumulative properties of the survival function and of the likelihood of the model on a given adoption log, which records the observed activation times of users and side-information for each cascade, we show that the inference phase is linear in the number of users and in the number of adoptions. The evaluation on both synthetic and real-world data shows the effectiveness of the model in detecting the interplay between topics and social influence patterns, which ultimately provides high accuracy in predicting users activation times.},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Article{Costa2009,
+  author    = {Gianni Costa and Giuseppe Manco and Riccardo Ortale},
+  title     = {An incremental clustering scheme for data de-duplication},
+  journal   = {Data Mining and Knowledge Discovery},
+  year      = {2009},
+  volume    = {20},
+  number    = {1},
+  month     = {oct},
+  pages     = {152--187},
+  doi       = {10.1007/s10618-009-0155-0},
+  abstract  = {We propose an incremental technique for discovering duplicates in large databases of textual sequences, i.e., syntactically different tuples, that refer to the same real-world entity. The problem is approached from a clustering perspective: given a set of tuples, the objective is to partition them into groups of duplicate tuples. Each newly arrived tuple is assigned to an appropriate cluster via nearest-neighbor classification. This is achieved by means of a suitable hash-based index, that maps any tuple to a set of indexing keys and assigns tuples with high syntactic similarity to the same buckets. Hence, the neighbors of a query tuple can be efficiently identified by simply retrieving those tuples that appear in the same buckets associated to the query tuple itself, without completely scanning the original database. Two alternative schemes for computing indexing keys are discussed and compared. An extensive experimental evaluation on both synthetic and real data shows the effectiveness of our approach.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Cesario2007,
+  author    = {Eugenio Cesario and Francesco Folino and Antonio Locane and Giuseppe Manco and Riccardo Ortale},
+  title     = {Boosting text segmentation via progressive classification},
+  journal   = {Knowledge and Information Systems},
+  year      = {2007},
+  volume    = {15},
+  number    = {3},
+  month     = {jun},
+  pages     = {285--320},
+  doi       = {10.1007/s10115-007-0085-3},
+  abstract  = {A novel approach for reconciling tuples stored as free text into an existing attribute schema is proposed. The basic idea is to subject the available text to progressive classification, i.e., a multi-stage classification scheme where, at each intermediate stage, a classifier is learnt that analyzes the textual fragments not reconciled at the end of the previous steps. Classification is accomplished by an ad hoc exploitation of traditional association mining algorithms, and is supported by a data transformation scheme which takes advantage of domain-specific dictionaries/ontologies. A key feature is the capability of progressively enriching the available ontology with the results of the previous stages of classification, thus significantly improving the overall classification accuracy. An extensive experimental evaluation shows the effectiveness of our approach.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Flesca2007,
+  author    = {Sergio Flesca and Giuseppe Manco and Elio Masciari and Luigi Pontieri and Andrea Pugliese},
+  title     = {Exploiting structural similarity for effective Web information extraction},
+  journal   = {Data {\&} Knowledge Engineering},
+  year      = {2007},
+  volume    = {60},
+  number    = {1},
+  month     = {jan},
+  pages     = {222--234},
+  doi       = {10.1016/j.datak.2006.01.001},
+  abstract  = {In this paper, we propose a classification technique for Web pages, based on the detection of structural similarities among semistructured documents, and devise an architecture exploiting such technique for the purpose of information extraction. The proposal significantly differs from standard methods based on graph-matching algorithms, and is based on the idea of representing the structure of a document as a time series in which each occurrence of a tag corresponds to an impulse. The degree of similarity between documents is then stated by analyzing the frequencies of the corresponding Fourier transform. Experiments on real data show the effectiveness of the proposed technique.},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Flesca2005,
+  author    = {S. Flesca and G. Manco and E. Masciari and L. Pontieri and A. Pugliese},
+  title     = {Fast detection of {XML} structural similarity},
+  journal   = {{IEEE} Transactions on Knowledge and Data Engineering},
+  year      = {2005},
+  volume    = {17},
+  number    = {2},
+  month     = {feb},
+  pages     = {160--175},
+  doi       = {10.1109/tkde.2005.27},
+  abstract  = {Because of the widespread diffusion of semistructured data in XML format, much research effort is currently devoted to support the storage and retrieval of large collections of such documents. XML documents can be compared as to their structural similarity, in order to group them into clusters so that different storage, retrieval, and processing techniques can be effectively exploited. In this scenario, an efficient and effective similarity function is the key of a successful data management process. We present an approach for detecting structural similarity between XML documents which significantly differs from standard methods based on graph-matching algorithms, and allows a significant reduction of the required computation costs. Our proposal roughly consists of linearizing the structure of each XML document, by representing it as a numerical sequence and, then, comparing such sequences through the analysis of their frequencies. First, some basic strategies for encoding a document are proposed, which can focus on diverse structural facets. Moreover, the theory of discrete Fourier transform is exploited to effectively and efficiently compare the encoded documents (i.e., signals) in the domain of frequencies. Experimental results reveal the effectiveness of the approach, also in comparison with standard methods.},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Article{Costa2011,
+  author    = {Gianni Costa and Giuseppe Manco and Riccardo Ortale and Ettore Ritacco},
+  title     = {From global to local and viceversa: uses of associative rule learning for classification in imprecise environments},
+  journal   = {Knowledge and Information Systems},
+  year      = {2011},
+  volume    = {33},
+  number    = {1},
+  month     = {dec},
+  pages     = {137--169},
+  doi       = {10.1007/s10115-011-0458-5},
+  abstract  = {We propose two models for improving the performance of rule-based classification under unbalanced and highly imprecise domains. Both models are probabilistic frameworks aimed to boost the performance of basic rule-based classifiers. The first model implements a global-to-local scheme, where the response of a global rule-based classifier is refined by performing a probabilistic analysis of the coverage of its rules. In particular, the coverage of the individual rules is used to learn local probabilistic models, which ultimately refine the predictions from the corresponding rules of the global classifier. The second model implements a dual local-to-global strategy, in which single classification rules are combined within an exponential probabilistic model in order to boost the overall performance as a side effect of mutual influence. Several variants of the basic ideas are studied, and their performances are thoroughly evaluated and compared with state-of-the-art algorithms on standard benchmark datasets.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Costa2013,
+  author    = {Gianni Costa and Giuseppe Manco and Riccardo Ortale and Ettore Ritacco},
+  title     = {Hierarchical clustering of {XML} documents focused on structural components},
+  journal   = {Data {\&} Knowledge Engineering},
+  year      = {2013},
+  volume    = {84},
+  month     = {mar},
+  pages     = {26--46},
+  doi       = {10.1016/j.datak.2012.12.002},
+  abstract  = {Clustering XML documents by structure is the task of grouping them by common structural components. Hitherto, this has been accomplished by looking at the occurrence of one preestablished type of structural components in the structures of the XML documents. However, the a-priori chosen structural components may not be the most appropriate for effective clustering. Moreover, it is likely that the resulting clusters exhibit a certain extent of inner structural inhomogeneity, because of uncaught differences in the structures of the XML documents, due to further neglected forms of structural components.
+
+To overcome these limitations, a new hierarchical approach is proposed, that allows to consider (if necessary) multiple forms of structural components to isolate structurally-homogeneous clusters of XML documents. At each level of the resulting hierarchy, clusters are divided by considering some type of structural components (unaddressed at the preceding levels), that still differentiate the structures of the XML documents. Each cluster in the hierarchy is summarized through a novel technique, that provides a clear and differentiated understanding of its structural properties.},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Greco2005,
+  author    = {G. Greco and A. Guzzo and G. Manco and D. Sacca},
+  title     = {Mining and reasoning on workflows},
+  journal   = {{IEEE} Transactions on Knowledge and Data Engineering},
+  year      = {2005},
+  volume    = {17},
+  number    = {4},
+  month     = {apr},
+  pages     = {519--534},
+  doi       = {10.1109/tkde.2005.63},
+  abstract  = {Today's workflow management systems represent a key technological infrastructure for advanced applications that is attracting a growing body of research, mainly focused in developing tools for workflow management, that allow users both to specify the "static" aspects, like preconditions, precedences among activities, and rules for exception handling, and to control its execution by scheduling the activities on the available resources. This paper deals with an aspect of workflows which has so far not received much attention even though it is crucial for the forthcoming scenarios of large scale applications on the Web: providing facilities for the human system administrator for identifying the choices performed more frequently in the past that had lead to a desired final configuration. In this context, we formalize the problem of discovering the most frequent patterns of executions, i.e., the workflow substructures that have been scheduled more frequently by the system. We attacked the problem by developing two data mining algorithms on the basis of an intuitive and original graph formalization of a workflow schema and its occurrences. The model is used both to prove some intractability results that strongly motivate the use of data mining techniques and to derive interesting structural properties for reducing the search space for frequent patterns. Indeed, the experiments we have carried out show that our algorithms outperform standard data mining algorithms adapted to discover frequent patterns of workflow executions.},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Article{Manco2007,
+  author    = {Giuseppe Manco and Elio Masciari and Andrea Tagarelli},
+  title     = {Mining categories for emails via clustering and pattern discovery},
+  journal   = {Journal of Intelligent Information Systems},
+  year      = {2007},
+  volume    = {30},
+  number    = {2},
+  month     = {jan},
+  pages     = {153--181},
+  doi       = {10.1007/s10844-006-0024-x},
+  abstract  = {The continuous exchange of information by means of the popular email service has raised the problem of managing the huge amounts of messages received from users in an effective and efficient way. We deal with the problem of email classification by conceiving suitable strategies for: (1) organizing messages into homogeneous groups, (2) redirecting further incoming messages according to an initial organization, and (3) building reliable descriptions of the message groups discovered. We propose a unified framework for handling and classifying email messages. In our framework, messages sharing similar features are clustered in a folder organization. Clustering and pattern discovery techniques for mining structured and unstructured information from email messages are the basis of an overall process of folder creation/maintenance and email redirection. Pattern discovery is also exploited for generating suitable cluster descriptions that play a leading role in cluster updating. Experimental evaluation performed on several personal mailboxes shows the effectiveness of our approach.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Greco2007,
+  author    = {Gianluigi Greco and Antonella Guzzo and Giuseppe Manco and Domenico Sacc{\`{a}}},
+  title     = {Mining unconnected patterns in workflows},
+  journal   = {Information Systems},
+  year      = {2007},
+  volume    = {32},
+  number    = {5},
+  month     = {jul},
+  pages     = {685--712},
+  doi       = {10.1016/j.is.2006.05.001},
+  abstract  = {General patterns of execution that have been frequently scheduled by a workflow management system provide the administrator with previously unknown, and potentially useful information, e.g., about the existence of unexpected causalities between subprocesses of a given workflow. This paper investigates the problem of mining unconnected patterns on the basis of some execution traces, i.e., of detecting sets of activities exhibiting no explicit dependency relationships that are frequently executed together. The problem is faced in the paper by proposing and analyzing two algorithms. One algorithm takes into account information about the structure of the control-flow graph only, while the other is a smart refinement where the knowledge of the frequencies of edges and activities in the traces at hand is also accounted for, by means of a sophisticated graphical analysis. Both algorithms have been implemented and integrated into a system prototype, which may profitably support the enactment phase of the workflow. The correctness of the two algorithms is formally proven, and several experiments are reported to evidence the ability of the graphical analysis to significantly improve the performances, by dramatically pruning the search space of candidate patterns.},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Barbieri2013b,
+  author    = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco and Marco Carnuccio and Antonio Bevacqua},
+  title     = {Probabilistic topic models for sequence data},
+  journal   = {Machine Learning},
+  year      = {2013},
+  volume    = {93},
+  number    = {1},
+  month     = {jul},
+  pages     = {5--29},
+  doi       = {10.1007/s10994-013-5391-2},
+  abstract  = {Probabilistic topic models are widely used in different contexts to uncover the hidden structure in large text corpora. One of the main (and perhaps strong) assumption of these models is that generative process follows a bag-of-words assumption, i.e. each token is independent from the previous one. We extend the popular Latent Dirichlet Allocation model by exploiting three different conditional Markovian assumptions: (i) the token generation depends on the current topic and on the previous token; (ii) the topic associated with each observation depends on topic associated with the previous one; (iii) the token generation depends on the current and previous topic. For each of these modeling assumptions we present a Gibbs Sampling procedure for parameter estimation. Experimental evaluation over real-word data shows the performance advantages, in terms of recall and precision, of the sequence-modeling approaches.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Cesario2007a,
+  author    = {E. Cesario and G. Manco and R. Ortale},
+  title     = {Top-Down Parameter-Free Clustering of High-Dimensional Categorical Data},
+  journal   = {{IEEE} Transactions on Knowledge and Data Engineering},
+  year      = {2007},
+  volume    = {19},
+  number    = {12},
+  month     = {dec},
+  pages     = {1607--1624},
+  doi       = {10.1109/tkde.2007.190649},
+  abstract  = {A parameter-free, fully-automatic approach to clustering high-dimensional categorical data is proposed. The technique is based on a two-phase iterative procedure, which attempts to improve the overall quality of the whole partition. In the first phase, cluster assignments are given, and a new cluster is added to the partition by identifying and splitting a low-quality cluster. In the second phase, the number of clusters is fixed, and an attempt to optimize cluster assignments is done. On the basis of such features, the algorithm attempts to improve the overall quality of the whole partition and finds clusters in the data, whose number is naturally established on the basis of the inherent features of the underlying data set rather than being previously specified. Furthermore, the approach is parametric to the notion of cluster quality: Here, a cluster is defined as a set of tuples exhibiting a sort of homogeneity. We show how a suitable notion of cluster homogeneity can be defined in the context of high-dimensional categorical data, from which an effective instance of the proposed clustering scheme immediately follows. Experiments on both synthetic and real data prove that the devised algorithm scales linearly and achieves nearly optimal results in terms of compactness and separation.},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@InCollection{Manco2018,
+  author    = {Giuseppe Manco and Giuseppe Pirr{\`{o}} and Ettore Ritacco},
+  title     = {Predicting Temporal Activation Patterns via Recurrent Neural Networks},
+  booktitle = {Lecture Notes in Computer Science},
+  year      = {2018},
+  publisher = {Springer International Publishing},
+  pages     = {347--356},
+  doi       = {10.1007/978-3-030-01851-1_33},
+  abstract  = {We tackle the problem of predict whether a target user (or group of users) will be active within an event stream before a time horizon. Our solution, called PATH, leverages recurrent neural networks to learn an embedding of the past events. The embedding allows to capture influence and susceptibility between users and places closer (the representation of) users that frequently get active in different event streams within a small time interval. We conduct an experimental evaluation on real world data and compare our approach with related work.},
+}
+
+@Article{Angiulli2016,
+  author    = {Fabrizio Angiulli and Fabio Fassetti and Giuseppe Manco and Luigi Palopoli},
+  title     = {Outlying property detection with numerical attributes},
+  journal   = {Data Mining and Knowledge Discovery},
+  year      = {2016},
+  volume    = {31},
+  number    = {1},
+  month     = {mar},
+  pages     = {134--163},
+  doi       = {10.1007/s10618-016-0458-x},
+  abstract  = {The outlying property detection problem (OPDP) is the problem of discovering the properties distinguishing a given object, known in advance to be an outlier in a database, from the other database objects. This problem has been recently analyzed focusing on categorical attributes only. However, numerical attributes are very relevant and widely used in databases. Therefore, in this paper, we analyze the OPDP within a context where also numerical attributes are taken into account, which represents a relevant case left open in the literature. As major contributions, we present an efficient parameter-free algorithm to compute the measure of object exceptionality we introduce, and propose a unified framework for mining exceptional properties in the presence of both categorical and numerical attributes.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Manco2017,
+  author    = {Giuseppe Manco and Ettore Ritacco and Pasquale Rullo and Lorenzo Gallucci and Will Astill and Dianne Kimber and Marco Antonelli},
+  title     = {Fault detection and explanation through big data analysis on sensor streams},
+  journal   = {Expert Systems with Applications},
+  year      = {2017},
+  volume    = {87},
+  month     = {nov},
+  pages     = {141--156},
+  doi       = {10.1016/j.eswa.2017.05.079},
+  abstract  = {Fault prediction is an important topic for the industry as, by providing effective methods for predictive maintenance, allows companies to perform important time and cost savings. In this paper we describe an application developed to predict and explain door failures on metro trains. To this end, the aim was twofold: first, devising prediction techniques capable of early detecting door failures from diagnostic data; second, describing failures in terms of properties distinguishing them from normal behavior. Data pre-processing was a complex task aimed at overcoming a number of issues with the dataset, like size, sparsity, bias, burst effect and trust. Since failure premonitory signals did not share common patterns, but were only characterized as non-normal device signals, fault prediction was performed by using outlier detection. Fault explanation was finally achieved by exhibiting device features showing abnormal values. An experimental evaluation was performed to assess the quality of the proposed approach. Results show that high-degree outliers are effective indicators of incipient failures. Also, explanation in terms of abnormal feature values (responsible for outlierness) seems to be quite expressive.There are some aspects in the proposed approach that deserve particular attention. We introduce a general framework for the failure detection problem based on an abstract model of diagnostic data, along with a formal problem statement. They both provide the basis for the definition of an effective data pre-processing technique where the behavior of a device, in a given time frame, is summarized through a number of suitable statistics. This approach strongly mitigates the issues related to data errors/noise, thus enabling to perform an effective outlier detection. All this, in our view, provides the grounds of a general methodology for advanced prognostic systems.},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Barbieri2016,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Efficient Methods for Influence-Based Network-Oblivious Community Detection},
+  journal   = {{ACM} Transactions on Intelligent Systems and Technology},
+  year      = {2016},
+  volume    = {8},
+  number    = {2},
+  month     = {dec},
+  pages     = {1--31},
+  doi       = {10.1145/2979682},
+  abstract  = {We study the problem of detecting social communities when the social graph is not available but instead we have access to a log of user activity, that is, a dataset of tuples (u, i, t) recording the fact that user u “adopted” item i at time t. We propose a stochastic framework that assumes that the adoption of items is governed by an underlying diffusion process over the unobserved social network and that such a diffusion model is based on community-level influence. That is, we aim at modeling communities through the lenses of social contagion. By fitting the model parameters to the user activity log, we learn the community membership and the level of influence of each user in each community. The general framework is instantiated with two different diffusion models, one with discrete time and one with continuous time, and we show that the computational complexity of both approaches is linear in the number of users and in the size of the propagation log. Experiments on synthetic data with planted community structure show that our methods outperform non-trivial baselines. The effectiveness of the proposed techniques is further validated on real-word data, on which our methods are able to detect high-quality communities.},
+  publisher = {Association for Computing Machinery ({ACM})},
+}
+
+@InCollection{Manco2017a,
+  author    = {Giuseppe Manco and Giuseppe Pirr{\`{o}}},
+  title     = {Differential Privacy and Neural Networks: A Preliminary Analysis},
+  booktitle = {Personal Analytics and Privacy. An Individual and Collective Perspective},
+  year      = {2017},
+  publisher = {Springer International Publishing},
+  pages     = {23--35},
+  doi       = {10.1007/978-3-319-71970-2_4},
+  abstract  = {The soaring amount of data coming from a variety of sources including social networks and mobile devices opens up new perspectives while at the same time posing new challenges. On one hand, AI-systems like Neural Networks paved the way toward new applications ranging from self-driving cars to text understanding. On the other hand, the management and analysis of data that fed these applications raises concerns about the privacy of data contributors. One robust (from the mathematical point of view) privacy definition is that of Differential Privacy (DP). The peculiarity of DP-based algorithms is that they do not work on anonymized versions of the data; they add a calibrated amount of noise before releasing the results, instead. The goals of this paper are: to give an overview on recent research results marrying DP and neural networks; to present a blueprint for differentially private neural networks; and, to discuss our findings and point out new research challenges.},
+}
+
+@Article{Manco2016,
+  author    = {Giuseppe Manco and Pasquale Rullo and Lorenzo Gallucci and Mirko Paturzo},
+  title     = {Rialto: A Knowledge Discovery suite for data analysis},
+  journal   = {Expert Systems with Applications},
+  year      = {2016},
+  volume    = {59},
+  month     = {oct},
+  pages     = {145--164},
+  doi       = {10.1016/j.eswa.2016.04.022},
+  abstract  = {A Knowledge Discovery (KD) process is a complex inter-disciplinary task, where different types of techniques coexist and cooperate for the purpose of extracting useful knowledge from large amounts of data. So, it is desirable having a unifying environment, built on a formal basis, where to design and perform the overall process. In this paper we propose a general framework which formalizes a KD process as an algebraic expression, that is, as a composition of operators representing elementary operations on two worlds: the data and the model worlds. Then, we describe a KD platform, named Rialto, based on such a framework. In particular, we provide the design principles of the underlying architecture, highlight the basic features, and provide a number of experimental results aimed at assessing the effectiveness of the design choices.},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Coleman2016,
+  author    = {Shirley Coleman and Rainer Göb and Giuseppe Manco and Antonio Pievatolo and Xavier Tort-Martorell and Marco Seabra Reis},
+  title     = {How Can {SMEs} Benefit from Big Data? Challenges and a Path Forward},
+  journal   = {Quality and Reliability Engineering International},
+  year      = {2016},
+  volume    = {32},
+  number    = {6},
+  month     = {may},
+  pages     = {2151--2164},
+  doi       = {10.1002/qre.2008},
+  abstract  = {Big data is big news, and large companies in all sectors are making significant advances in their customer relations, product selection and development and consequent profitability through using this valuable commodity. Small and medium enterprises (SMEs) have proved themselves to be slow adopters of the new technology of big data analytics and are in danger of being left behind. In Europe, SMEs are a vital part of the economy, and the challenges they encounter need to be addressed as a matter of urgency. This paper identifies barriers to SME uptake of big data analytics and recognises their complex challenge to all stakeholders, including national and international policy makers, IT, business management and data science communities.
+
+The paper proposes a big data maturity model for SMEs as a first step towards an SME roadmap to data analytics. It considers the ‘state‐of‐the‐art’ of IT with respect to usability and usefulness for SMEs and discusses how SMEs can overcome the barriers preventing them from adopting existing solutions. The paper then considers management perspectives and the role of maturity models in enhancing and structuring the adoption of data analytics in an organisation. The history of total quality management is reviewed to inform the core aspects of implanting a new paradigm. The paper concludes with recommendations to help SMEs develop their big data capability and enable them to continue as the engines of European industrial and business success. },
+  publisher = {Wiley},
+}
+
+@Book{Barbieri2014,
+  author    = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco},
+  title     = {Probabilistic Approaches to Recommendations},
+  year      = {2014},
+  volume    = {5},
+  number    = {2},
+  publisher = {Morgan {\&} Claypool Publishers {LLC}},
+  pages     = {1--197},
+  doi       = {10.2200/s00574ed1v01y201403dmk009},
+  abstract  = {The importance of accurate recommender systems has been widely recognized by academia and industry, and recommendation is rapidly becoming one of the most successful applications of data mining and machine learning. Understanding and predicting the choices and preferences of users is a challenging task: real-world scenarios involve users behaving in complex situations, where prior beliefs, specific tendencies, and reciprocal influences jointly contribute to determining the preferences of users toward huge amounts of information, services, and products. Probabilistic modeling represents a robust formal mathematical framework to model these assumptions and study their effects in the recommendation process.
+
+This book starts with a brief summary of the recommendation problem and its challenges and a review of some widely used techniques Next, we introduce and discuss probabilistic approaches for modeling preference data. We focus our attention on methods based on latent factors, such as mixture models, probabilistic matrix factorization, and topic models, for explicit and implicit preference data. These methods represent a significant advance in the research and technology of recommendation. The resulting models allow us to identify complex patterns in preference data, which can be exploited to predict future purchases effectively.
+
+The extreme sparsity of preference data poses serious challenges to the modeling of user preferences, especially in the cases where few observations are available. Bayesian inference techniques elegantly address the need for regularization, and their integration with latent factor modeling helps to boost the performances of the basic techniques.
+
+We summarize the strengths and weakness of several approaches by considering two different but related evaluation perspectives, namely, rating prediction and recommendation accuracy. Furthermore, we describe how probabilistic methods based on latent factors enable the exploitation of preference patterns in novel applications beyond rating prediction or recommendation accuracy.
+
+We finally discuss the application of probabilistic techniques in two additional scenarios, characterized by the availability of side information besides preference data. In summary, the book categorizes the myriad probabilistic approaches to recommendations and provides guidelines for their adoption in real-world situations.},
+  journal   = {Synthesis Lectures on Data Mining and Knowledge Discovery},
+  month     = {may},
+}
+
+@Article{Costa2013a,
+  author    = {Gianni Costa and Giuseppe Manco and Elio Masciari},
+  title     = {Dealing with trajectory streams by clustering and mathematical transforms},
+  journal   = {Journal of Intelligent Information Systems},
+  year      = {2013},
+  volume    = {42},
+  number    = {1},
+  month     = {jul},
+  pages     = {155--177},
+  doi       = {10.1007/s10844-013-0267-2},
+  abstract  = {Nowadays, almost all kind of electronic devices leave traces of their movements (e.g. smartphone, GPS devices and so on). Thus, the huge number of this “tiny” data sources leads to the generation of massive data streams of geo-referenced data. As a matter of fact, the effective analysis of such amounts of data is challenging, since the possibility to extract useful information from this peculiar kind of data is crucial in many application scenarios such as vehicle traffic management, hand-off in cellular networks, supply chain management. Moreover, spatial data streams management poses new challenges both for their proper definition and acquisition, thus making the overall process harder than for classical point data. In particular, we are interested in solving the problem of effective trajectory data streams clustering, that revealed really intriguing as we deal with sequential data that have to be properly managed due to their ordering. We propose a framework that allow data pre-elaboration in order to make the mining step more effective. As for every data mining tool, the experimental evaluation is crucial, thus we performed several tests on real world datasets that confirmed the efficiency and effectiveness of the proposed approach.},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@InProceedings{Barbieri2014a,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Who to follow and why},
+  booktitle = {Proceedings of the 20th {ACM} {SIGKDD} international conference on Knowledge discovery and data mining - {KDD} {\textquotesingle}14},
+  year      = {2014},
+  publisher = {{ACM} Press},
+  doi       = {10.1145/2623330.2623733},
+  abstract  = {User recommender systems are a key component in any on-line social networking platform: they help the users growing their network faster, thus driving engagement and loyalty.
+In this paper we study link prediction with explanations for user recommendation in social networks. For this problem we propose WTFW ("Who to Follow and Why"), a stochastic topic model for link prediction over directed and nodes-attributed graphs. Our model not only predicts links, but for each predicted link it decides whether it is a "topical" or a "social" link, and depending on this decision it produces a different type of explanation.
+A topical link is recommended between a user interested in a topic and a user authoritative in that topic: the explanation in this case is a set of binary features describing the topic responsible of the link creation. A social link is recommended between users which share a large social neighborhood: in this case the explanation is the set of neighbors which are more likely to be responsible for the link creation.
+Our experimental assessment on real-world data confirms the accuracy of WTFW in the link prediction and the quality of the associated explanations.},
+}
+
+@InCollection{Barbieri2017,
+  author    = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco},
+  title     = {Survival Factorization on Diffusion Networks},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases},
+  year      = {2017},
+  publisher = {Springer International Publishing},
+  pages     = {684--700},
+  doi       = {10.1007/978-3-319-71249-9_41},
+}
+
+@Article{Barbieri2013c,
+  author    = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+  title     = {Topic-aware social influence propagation models},
+  journal   = {Knowledge and Information Systems},
+  year      = {2013},
+  volume    = {37},
+  number    = {3},
+  month     = {apr},
+  pages     = {555--584},
+  doi       = {10.1007/s10115-013-0646-6},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

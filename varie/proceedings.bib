@@ -1,0 +1,410 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+%% Created for Giuseppe Manco at 2019-09-07 10:29:20 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@inproceedings{DBLP:conf/wsdm/SachdevaMRP19,
+	Abstract = {Variational autoencoders were proven successful in
+                  domains such as computer vision and speech
+                  processing. Their adoption for modeling user
+                  preferences is still unexplored, although recently
+                  it is starting to gain attention in the current
+                  literature. In this work, we propose a model which
+                  extends variational autoencoders by exploiting the
+                  rich information present in the past preference
+                  history. We introduce a recurrent version of the
+                  VAE, where instead of passing a subset of the whole
+                  history regardless of temporal dependencies, we
+                  rather pass the consumption sequence subset through
+                  a recurrent neural network. At each time-step of the
+                  RNN, the sequence is fed through a series of
+                  fully-connected layers, the output of which models
+                  the probability distribution of the most likely
+                  future preferences. We show that handling temporal
+                  information is crucial for improving the accuracy of
+                  the VAE: In fact, our model beats the current
+                  state-of-the-art by valuable margins because of its
+                  ability to capture temporal dependencies among the
+                  user-consumption sequence using the recurrent
+                  encoder still keeping the fundamentals of
+                  variational autoencoders intact.},
+	Author = {Noveen Sachdeva and Giuseppe Manco and Ettore Ritacco and Vikram Pudi},
+	Booktitle = {Proceedings of the Twelfth {ACM} International Conference on Web Search and Data Mining, {WSDM} 2019, Melbourne, VIC, Australia, February 11-15, 2019},
+	Doi = {10.1145/3289600.3291007},
+	Pages = {600--608},
+	Title = {Sequential Variational Autoencoders for Collaborative Filtering},
+	Url = {https://arxiv.org/abs/1811.09975},
+	Year = {2019},
+	Bdsk-Url-1 = {https://arxiv.org/abs/1811.09975},
+	Bdsk-Url-2 = {https://doi.org/10.1145/3289600.3291007}}
+
+@inproceedings{Barbieri:2014:FWL:2623330.2623733,
+	Abstract = {User recommender systems are a key component in any
+                  on-line social networking platform: they help the
+                  users growing their network faster, thus driving
+                  engagement and loyalty.  In this paper we study link
+                  prediction with explanations for user recommendation
+                  in social networks. For this problem we propose WTFW
+                  ("Who to Follow and Why"), a stochastic topic model
+                  for link prediction over directed and
+                  nodes-attributed graphs. Our model not only predicts
+                  links, but for each predicted link it decides
+                  whether it is a "topical" or a "social" link, and
+                  depending on this decision it produces a different
+                  type of explanation.  A topical link is recommended
+                  between a user interested in a topic and a user
+                  authoritative in that topic: the explanation in this
+                  case is a set of binary features describing the
+                  topic responsible of the link creation. A social
+                  link is recommended between users which share a
+                  large social neighborhood: in this case the
+                  explanation is the set of neighbors which are more
+                  likely to be responsible for the link creation.  Our
+                  experimental assessment on real-world data confirms
+                  the accuracy of WTFW in the link prediction and the
+                  quality of the associated explanations.},
+	Author = {Barbieri, Nicola and Bonchi, Francesco and Manco, Giuseppe},
+	Booktitle = {Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+	Doi = {10.1145/2623330.2623733},
+	Isbn = {978-1-4503-2956-9},
+	Keywords = {link prediction, social networks},
+	Location = {New York, New York, USA},
+	Numpages = {10},
+	Pages = {1266--1275},
+	Series = {KDD '14},
+	Title = {Who to Follow and Why: Link Prediction with Explanations},
+	Url = {http://www.francescobonchi.com/frp1266-barbieri.pdf},
+	Year = {2014},
+	Bdsk-Url-1 = {http://www.francescobonchi.com/frp1266-barbieri.pdf},
+	Bdsk-Url-2 = {https://doi.org/10.1145/2623330.2623733}}
+
+@inproceedings{CostaMO14,
+	Abstract = {A Bayesian generative model is presented for
+                  recommending interesting items and trustworthy users
+                  to the targeted users in social rating networks with
+                  asymmetric and directed trust relationships. The
+                  proposed model is the first unified approach to the
+                  combination of the two recommendation tasks. Within
+                  the devised model, each user is associated with two
+                  latent-factor vectors, i.e., her susceptibility and
+                  expertise. Items are also associated with
+                  corresponding latent-factor vector
+                  representations. The probabilistic factorization of
+                  the rating data and trust relationships is exploited
+                  to infer user susceptibility and expertise.
+                  Statistical social-network modeling is instead used
+                  to constrain the trust relationships from a user to
+                  another to be governed by their respective
+                  susceptibility and expertise.  The inherently
+                  ambiguous meaning of unobserved trust relationships
+                  between users is suitably disambiguated.  An
+                  intensive comparative experimentation on real-world
+                  social rating networks with trust relationships
+                  demonstrates the superior predictive performance of
+                  the presented model in terms of RMSE and AUC.},
+	Author = {Gianni Costa and Giuseppe Manco and Riccardo Ortale},
+	Booktitle = {Machine Learning and Knowledge Discovery in Databases - European Conference, {ECML} {PKDD} 2014, Nancy, France, September 15-19, 2014. Proceedings, Part {I}},
+	Date-Modified = {2019-09-07 09:51:07 +0200},
+	Doi = {10.1007/978-3-662-44848-9_17},
+	Pages = {258--273},
+	Title = {A Generative Bayesian Model for Item and User Recommendation in Social Rating Networks with Trust Relationships},
+	Url = {https://www.researchgate.net/publication/265856499_A_Generative_Bayesian_Model_for_Item_and_User_Recommendation_in_Social_Rating_Networks_with_Trust_Relationships},
+	Year = {2014},
+	Bdsk-Url-1 = {https://www.researchgate.net/publication/265856499_A_Generative_Bayesian_Model_for_Item_and_User_Recommendation_in_Social_Rating_Networks_with_Trust_Relationships},
+	Bdsk-Url-2 = {https://doi.org/10.1007/978-3-662-44848-9_17}}
+
+@inproceedings{BarbieriBM13a,
+	Abstract = {How can we detect communities when the social graphs
+                  is not available? We tackle this problem by modeling
+                  social contagion from a log of user activity, that
+                  is a dataset of tuples (u, i, t) recording the fact
+                  that user u "adopted" item i at time t. This is the
+                  only input to our problem. We propose a stochastic
+                  framework which assumes that item adoptions are
+                  governed by un underlying diffusion process over the
+                  unobserved social network, and that such diffusion
+                  model is based on community-level influence. By
+                  fitting the model parameters to the user activity
+                  log, we learn the community membership and the level
+                  of influence of each user in each community. This
+                  allows to identify for each community the "key"
+                  users, i.e., the leaders which are most likely to
+                  influence the rest of the community to adopt a
+                  certain item. The general framework can be
+                  instantiated with different diffusion models. In
+                  this paper we define two models: the extension to
+                  the community level of the classic (discrete time)
+                  Independent Cascade model, and a model that focuses
+                  on the time delay between adoptions. To the best of
+                  our knowledge, this is the first work studying
+                  community detection without the network. },
+	Author = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+	Booktitle = {13th IEEE International Conference on Data Mining, ICDM 2013, Dallas TX, December 7-10, 2013},
+	Date-Modified = {2019-09-07 10:20:20 +0200},
+	Pages = {955-960},
+	Title = {Influence-based Network-oblivious Community Detection},
+	Url = {https://www.dropbox.com/s/2mzraqexh3b1kb9/icdm2013_cr.pdf?dl=0},
+	Year = 2013,
+	Bdsk-Url-1 = {https://www.dropbox.com/s/2mzraqexh3b1kb9/icdm2013_cr.pdf?dl=0}}
+
+@inproceedings{BarbieriBM13,
+	Abstract = {Given a directed social graph and a set of past
+                  informa- tion cascades observed over the graph, we
+                  study the novel problem of detecting modules of the
+                  graph (communities of nodes), that also explain the
+                  cascades. Our key observation is that both
+                  information propagation and social ties forma- tion
+                  in a social network can be explained according to
+                  the same latent factor, which ultimately guide a
+                  user behavior within the network. Based on this
+                  observation, we propose the Community-Cascade
+                  Network (CCN) model, a stochas- tic mixture
+                  membership generative model that can fit, at the
+                  same time, the social graph and the observed set of
+                  cas- cades. Our model produces overlapping
+                  communities and for each node, its level of
+                  authority and passive interest in each community it
+                  belongs.  For learning the parameters of the CCN
+                  model, we devise a Generalized Expectation
+                  Maximization procedure. We then apply our model to
+                  real-world social networks and in- formation
+                  cascades: the results witness the validity of the
+                  proposed CCN model, providing useful insights on its
+                  signif- icance for analyzing social behavior. },
+	Author = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+	Booktitle = {Sixth ACM International Conference on Web Search and Data Mining, WSDM 2013, Rome, Italy, February 4-8, 2013},
+	Date-Modified = {2019-09-07 10:16:37 +0200},
+	Pages = {33-42},
+	Publisher = {ACM},
+	Title = {Cascade-based community detection},
+	Url = {https://www.dropbox.com/s/bwj4i5rncb6hpjd/wsdm13_final.pdf?dl=0},
+	Year = {2013},
+	Bdsk-Url-1 = {https://www.dropbox.com/s/bwj4i5rncb6hpjd/wsdm13_final.pdf?dl=0}}
+
+@inproceedings{BarbieriBCMR12,
+	Abstract = {Probabilistic topic models are widely used in
+                  different contexts to uncover the hidden structure
+                  in large text corpora. One of the main features of
+                  these models is that generative process follows a
+                  bag-of-words assump- tion, i.e each token is
+                  independent from the previous one. We extend the
+                  popular Latent Dirichlet Allocation model by
+                  exploiting a conditional Markovian assumptions,
+                  where the token generation depends on the cur- rent
+                  topic and on the previous token. The resulting model
+                  is capable of accommodating temporal correlations
+                  among tokens, which better model user behavior. This
+                  is particularly significant in a collaborative
+                  filtering context, where the choice of a user can be
+                  exploited for recommendation purposes, and hence a
+                  more re- alistic and accurate modeling enables
+                  better recommendations. For the mentioned model we
+                  present a fast Gibbs Sampling procedure for the
+                  parameters estimation. A thorough experimental
+                  evaluation over real-word data shows the performance
+                  advantages, in terms of recall and precision, of the
+                  proposed sequence-modeling approach. },
+	Author = {Nicola Barbieri and Antonio Bevacqua and Marco Carnuccio and Giuseppe Manco and Ettore Ritacco},
+	Booktitle = {KDIR 2012 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval, Barcelona, Spain, 4 - 7 October, 2012},
+	Date-Modified = {2019-09-07 10:22:26 +0200},
+	Pages = {75-84},
+	Title = {Probabilistic Sequence Modeling for Recommender Systems},
+	Url = {https://www.dropbox.com/s/qgljal7gezvt27q/kdir2012_final.pdf?dl=0},
+	Year = {2012},
+	Bdsk-Url-1 = {https://www.dropbox.com/s/qgljal7gezvt27q/kdir2012_final.pdf?dl=0}}
+
+@inproceedings{BarbieriBM12,
+	Abstract = {We study social influence from a topic modeling
+                  perspective. We introduce novel topic-aware
+                  influence-driven propagation models that
+                  experimentally result to be more ac- curate in
+                  describing real-world cascades than the standard
+                  propagation models studied in the literature. In
+                  particular, we first propose simple topic-aware
+                  extensions of the well-known Independent Cascade and
+                  Linear Threshold models. Next, we propose a
+                  different approach explicitly modeling
+                  authoritative- ness, influence and relevance under a
+                  topic-aware perspective. We devise methods to learn
+                  the parameters of the models from a dataset of past
+                  propagations. Our experimentation confirms the high
+                  accuracy of the proposed models and learning
+                  schemes.},
+	Author = {Nicola Barbieri and Francesco Bonchi and Giuseppe Manco},
+	Booktitle = {12th IEEE International Conference on Data Mining, ICDM 2012, Brussels, Belgium, December 10-13, 2012},
+	Date-Modified = {2019-09-07 10:29:20 +0200},
+	Pages = {81-90},
+	Title = {Topic-Aware Social Influence Propagation Models},
+	Url = {https://www.dropbox.com/s/rnns0yiyy24tair/icdm2012.pdf?dl=0},
+	Year = 2012,
+	Bdsk-Url-1 = {https://www.dropbox.com/s/rnns0yiyy24tair/icdm2012.pdf?dl=0}}
+
+@inproceedings{BarbieriMOR12,
+	Abstract = {Recent works in Recommender Systems (RS) have investigated the relationships between the prediction
+                  accuracy, i.e. the ability of a RS to minimize a
+                  cost function (for instance the RMSE measure) in
+                  estimating users' preferences, and the accuracy of
+                  the recommendation list provided to
+                  users. State-of-the-art recommendation algorithms,
+                  which focus on the minimization of RMSE, have shown
+                  to achieve weak results from the recommendation
+                  accuracy perspective, and vice versa. In this work
+                  we present a novel Bayesian probabilistic hierarchical approach for users' preference data,
+                  which is designed to overcome the limitation of
+                  current method- ologies and thus to meet both
+                  prediction and recommendation accuracy. According
+                  to the generative semantics of this technique, each
+                  user is modeled as a random mixture over latent
+                  factors, which identify users community
+                  interests. Each individual user community is then
+                  modeled as a mixture of topics, which capture the
+                  preferences of the members on a set of items. We
+                  provide two different formalization of the basic
+                  hierarchical model: BH-Forced focuses on rating
+                  prediction, while BH-Free models both the popularity
+                  of items and the distribution over item
+                  ratings. The combined modeling of item popularity
+                  and rating provides a powerful framework for the
+                  generation of highly accurate recommendations.  An
+                  extensive evaluation over two popular benchmark
+                  datasets reveals the effectiveness and the quality
+                  of the proposed algorithms, showing that BH-Free
+                  realizes the most satisfactory compromise between
+                  prediction and recommendation accuracy with respect
+                  to several state- of-the-art competitors.},
+	Author = {Nicola Barbieri and Giuseppe Manco and Riccardo Ortale and Ettore Ritacco},
+	Booktitle = {Proceedings of the Twelfth SIAM International Conference on Data Mining, Anaheim, California, USA, April 26-28, 2012},
+	Date-Modified = {2019-09-07 10:16:31 +0200},
+	Pages = {1035-1046},
+	Publisher = {SIAM / Omnipress},
+	Title = {Balancing Prediction and Recommendation Accuracy: Hierarchical Latent Factors for Preference Data},
+	Url = {https://epubs.siam.org/doi/10.1137/1.9781611972825.89},
+	Year = {2012},
+	Bdsk-Url-1 = {http://siam.omnibooksonline.com/2012datamining/data/papers/049.pdf}}
+
+@inproceedings{BarbieriM11,
+	Abstract = {In this work we perform an analysis of probabilistic
+                  approaches to recommendation upon a different
+                  validation perspective, which focuses on accuracy
+                  metrics such as recall and precision of the
+                  recommendation list. Traditionally, state-of-art
+                  approches to recommen- dations consider the
+                  recommendation process from a ``missing value pre-
+                  diction'' perspective. This approach simplifies the
+                  model validation phase that is based on the
+                  minimization of standard error metrics such as
+                  RMSE. However, recent studies have pointed several
+                  limitations of this approach, showing that a lower
+                  RMSE does not necessarily imply im- provements in
+                  terms of specific recommendations. We demonstrate
+                  that the underlying probabilistic framework offers
+                  several advantages over tra- ditional methods, in
+                  terms of flexibility in the generation of the recom-
+                  mendation list and consequently in the accuracy of
+                  recommendation.},
+	Author = {Nicola Barbieri and Giuseppe Manco},
+	Booktitle = {Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2011, Athens, Greece, September 5-9, 2011},
+	Date-Modified = {2019-09-07 10:08:09 +0200},
+	Pages = {172-187},
+	Publisher = {Springer},
+	Series = {Lecture Notes in Computer Science},
+	Title = {An Analysis of Probabilistic Methods for Top-N Recommendation in Collaborative Filtering},
+	Volume = {6911},
+	Year = {2011},
+	Bdsk-Url-1 = {https://www.dropbox.com/s/4t31pgus91ryjb7/pkdd2011.pdf?dl=0}}
+
+@inproceedings{BarbieriCMR11,
+	Abstract = {In this paper we propose a probabilistic
+                  co-clustering approach for pattern discovery in
+                  collaborative filtering data. We extend the Block
+                  Mixture Model in order to learn about the structures
+                  and relationships within pref- erence data. The
+                  resulting model can simultaneously cluster users
+                  into communities and items into categories. Besides
+                  its predictive capabilities, the model enables the
+                  discovery of significant knowledge patterns, such as
+                  the analysis of common trends and relationships
+                  between items and users within
+                  communities/categories. We reformulate the
+                  mathematical model and implement a parameter
+                  estimation technique. Next, we show how the model
+                  parameters enable pattern discovery tasks, namely:
+                  (i) to infer topics for each items category and
+                  characteristic items for each user community; (ii)
+                  to model community interests and transitions among
+                  topics. Experiments on MovieLens data provide
+                  evidence about the effectiveness of the proposed
+                  approach.},
+	Author = {Nicola Barbieri and Gianni Costa and Giuseppe Manco and Ettore Ritacco},
+	Booktitle = {KDIR 2011 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval, Paris, France, 26-29 October, 2011},
+	Date-Modified = {2019-09-07 10:18:36 +0200},
+	Pages = {64-73},
+	Publisher = {SciTePress},
+	Title = {Characterizing Relationships through Co-clustering - A Probabilistic Approach},
+	Year = {2011},
+	Bdsk-Url-1 = {https://www.dropbox.com/s/ch2s4nf1dxz6ogp/kdir2011_final.pdf?dl=0}}
+
+@inproceedings{BarbieriCMO11,
+	Abstract = {We propose a bayesian probabilistic model for
+                  explicit preference data. The model introduces a
+                  generative process, which takes into account both
+                  item selection and rating emission to gather into
+                  communities those users who ex- perience the same
+                  items and tend to adopt the same rating
+                  pattern. Each user is modeled as a random mixture of
+                  topics, where each topic is characterized by a
+                  distribu- tion modeling the popularity of items
+                  within the respective user-community and by a
+                  distribution over preference val- ues for those
+                  items. The proposed model can be associated with a
+                  novel item-relevance ranking criterion, which is
+                  based both on item popularity and user's
+                  preferences. We show that the proposed model,
+                  equipped with the new ranking criterion, outperforms
+                  state-of-art approaches in terms of accuracy of the
+                  recommendation list provided to users on standard
+                  benchmark datasets.},
+	Author = {Nicola Barbieri and Gianni Costa and Giuseppe Manco and Riccardo Ortale},
+	Booktitle = {Proceedings of the 2011 ACM Conference on Recommender Systems, RecSys 2011, Chicago, IL, USA, October 23-27, 2011},
+	Date-Modified = {2019-09-07 10:23:07 +0200},
+	Pages = {21-28},
+	Title = {Modeling item selection and relevance for accurate recommendations: a bayesian approach},
+	Url = {https://www.dropbox.com/s/c31iw8b1esrii1z/RecSys2011_final.pdf?dl=0},
+	Year = {2011},
+	Bdsk-Url-1 = {https://www.dropbox.com/s/c31iw8b1esrii1z/RecSys2011_final.pdf?dl=0}}
+
+@inproceedings{BarbieriMR11,
+	Abstract = {This paper presents a hierarchical probabilistic approach to collaborative filtering which allows the
+                  discovery and analysis of both global patterns
+                  (i.e., tendency of some products of being
+                  `universally appreciated') and local patterns (tendency of users within a community to express a
+                  common preference on the same group of items). We
+                  reformulate the collaborative filtering approach
+                  as a clustering problem in a high-dimensional
+                  setting, and propose a probabilistic approach to
+                  model the data. The core of our approach is a
+                  co-clustering strategy, arranged in a hierarchical
+                  fashion: first, user communities are discovered, and
+                  then the information provided by each user community
+                  is used to discover topics, grouping items into
+                  categories. The resulting probabilistic framework
+                  can be used for detecting interesting
+                  relationships between users and items within user
+                  communities. The experimental evaluation shows that
+                  the proposed model achieves a competitive prediction
+                  accuracy with respect to the state-of-art
+                  collaborative filtering approaches.},
+	Author = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco},
+	Booktitle = {Proceedings of the Eleventh SIAM International Conference on Data Mining, SDM 2011, April 28-30, 2011, Mesa, Arizona, USA},
+	Date-Modified = {2019-09-07 10:14:31 +0200},
+	Pages = {630-621},
+	Publisher = {SIAM / Omnipress},
+	Title = {A Probabilistic Hierarchical Approach for Pattern Discovery in Collaborative Filtering Data},
+	Url = {https://epubs.siam.org/doi/10.1137/1.9781611972818.54},
+	Year = {2011},
+	Bdsk-Url-1 = {http://siam.omnibooksonline.com/2011datamining/data/papers/163.pdf}}
