@@ -1,5 +1,5 @@
 ---
-title: "On Semi-Supervised VAE"
+title: "Some notes on the Semi-Supervised Learning of Variational Autoencoders"
 date: 2019-09-10T18:10:09+02:00
 draft: false
 math: true
