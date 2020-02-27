@@ -1,10 +1,11 @@
 ---
-title: Concetti fondamentali su Image processing e analysis
-linktitle: Concetti fondamentali
+title: Introduzione al corso
+linktitle: Introduzione al corso
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2020-02-27T00:00:00+01:00"
 draft: false
+
 menu:
   computervision:
     parent: Lezioni
@@ -14,4 +15,6 @@ menu:
 weight: 1
 ---
 
+Introduzione al corso. Image Processing, Analysis e Computer Vision. 
 
+Slides disponibili [qui](../lecture1.pdf)

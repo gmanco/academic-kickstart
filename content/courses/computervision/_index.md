@@ -26,11 +26,6 @@ menu:
 
 ## Breve descrizione del corso
 
-menu: 
-  example:
-    name: Panoramica
-    weight: 1
-
 
 Il corso è finalizzato ad acquisire e sperimentare le tecniche di base per l’analisi di immagini e video. Verranno illustrati i concetti fondamentali per l’analisi delle immagini e verranno illustrate le principali tecniche di object detection, object tracking e action detection. Durante il corso saranno presentati modelli di reti neurali CNN e RNN, tecniche di transfer learning, Residual and Attention network ed una introduzione ai modelli generativi e alle Adversarial networks. Gli esempi applicativi faranno uso del linguaggio Python e dei framework di Deep Learning Pytorch/Tensorflow.
 
@@ -45,7 +40,7 @@ Competenze specifiche:
 
 ## Docenti
 - Giuseppe Manco. Ricevimento: mercoledì’ 14:30-16:30. 
-- Francesco Pisani. 
+- Francesco Pisani. Rivevimento lunedì 15-17.
 
 ## Programma
 
@@ -74,12 +69,13 @@ Competenze specifiche:
 	- Mohamed Elgendy, [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems). Manning, 2020.
 	- Rafael C. Gonzalez, Richard E. Woods, Digital image processing. 4th edition. Pearson, 2018.
 
-## Syllabo delle lezioni
+## Sillabo delle lezioni
 
 
 | Lezione | Argomenti                                            | Materiale didattico | Riferimenti | Approfondimenti | Data       |
 | ------- | ---------------------------------------------------- | ------------------- | ----------- | --------------- | ---------- |
-| 1       | Concetti fondamentali su Image processing e analysis |[A relative link from one post to another post]({{< relref "../computervision/lecture1.md" >}})             |                 | 03/03/2020 |
+| 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |                 | |10/03/2020 |
+| 2       | Concetti fondamentali su Image processing e analysis |                    |              | |12/03/2020 |
 
 
 

@@ -24,10 +24,10 @@ font_size = "m"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "manco.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "beman"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -72,8 +72,9 @@ phone = "+39 0984 493845‬"
 address = "Via Bucci 8-9c, Rende CS 87036, Italy"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+#office_hours = """Monday 10:00 to 13:00<br>
+#                  Wednesday 09:00 to 10:00"""
+office_hours = """Wednesday 14:30 to 16:30"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
