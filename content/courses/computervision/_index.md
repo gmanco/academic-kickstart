@@ -24,6 +24,15 @@ menu:
   
 ---
 
+
+## **Importante**
+
+Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 17/03/2019, alle ore 8:30.
+
+La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/channel/19%3ac60bff4a6e874db3b5e0d2034412ed18%40thread.tacv 2/Generale?groupId=b4509060-7b45-4eab-80ce-55182356fb88&tenantId=7519d0cd-2106-47d9- adcb-320023abff57). 
+
+Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **khm7h4s**
+
 ## Breve descrizione del corso
 
 
@@ -64,18 +73,18 @@ Competenze specifiche:
 - Lucidi delle lezioni
 - Notebooks e lucidi delle esercitazioni
 - Libri:
-	- E.R. Davies, Computer Vision: Principles, Algorithms, Applications, Learning. Fifth edition. Elsevier/Academic Press, 2018.
-	- Jason Kinser, Image operators: image processing in Python. CRC Press/Taylor & Francis Group, 2019.
-	- Mohamed Elgendy, [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems). Manning, 2020.
-	- Rafael C. Gonzalez, Richard E. Woods, Digital image processing. 4th edition. Pearson, 2018.
+	- E.R. Davies, Computer Vision: Principles, Algorithms, Applications, Learning. Fifth edition. Elsevier/Academic Press, 2018 **[Davies18]**
+	- Jan Erik Solem, Programming Computer Vision with Python. O'Reilly Media, 2012. **[Solem12]**
+	- Mohamed Elgendy, [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems). Manning, 2020. **[Elg20]**
+	- Rafael C. Gonzalez, Richard E. Woods, Digital image processing. 4th edition. Pearson, 2018. **[Gon18]**
 
 ## Sillabo delle lezioni
 
 
-| Lezione | Argomenti                                            | Materiale didattico | Riferimenti | Approfondimenti | Data       |
-| ------- | ---------------------------------------------------- | ------------------- | ----------- | --------------- | ---------- |
-| 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |                 | |10/03/2020 |
-| 2       | Concetti fondamentali su Image processing e analysis |                    |              | |12/03/2020 |
+| Lezione | Argomenti                                            | Materiale didattico | Data       |
+| ------- | ---------------------------------------------------- | ------------------- | ---------- |
+| 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |17/03/2020 |
+| 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
 
 
 

@@ -17,4 +17,17 @@ weight: 1
 
 Introduzione al corso. Image Processing, Analysis e Computer Vision. 
 
-Slides disponibili [qui](../lecture1.pdf)
+Slides disponibili [qui](../1.Intro.pdf)
+
+
+## Riferimenti bibliografici
+
+- **[Davies18]**, ch. 1. 
+- **[Elg20]**, sect. 1.1-1.3. 
+- **[Gon18]**, Ch. 1. 
+
+## Link utili
+
+- [Introduction to Computer Vision](https://algorithmia.com/blog/introduction-to-computer-vision)
+- [A gentle introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
+- [A Beginner's guide to Computer Vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720)
