@@ -37,3 +37,4 @@ La lezione è corredata di un notebook disponibile [qui](https://github.com/gman
 - [Anaconda, la piattaforma di riferimento per installare Python e Jupyter](https://www.anaconda.com/)
 - [Piattaforma azure di Microsoft per l'esecuzione di notebooks](https://notebooks.azure.com/)
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+- [The missing semester, un mini-corso del MIT sui tool di base che tutti i data scientist dovrebbero conoscere](https://missing.csail.mit.edu/?fbclid=IwAR0N3s-DbRLrSWW3tB1L5iu_thdiEtFuL7cGUwxyOL-yc7skytSDGdT9ZAo)
