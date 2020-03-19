@@ -85,6 +85,7 @@ Competenze specifiche:
 | ------- | ---------------------------------------------------- | ------------------- | ---------- |
 | 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |17/03/2020 |
 | 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
+| 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |19/03/2020 |
 
 
 
