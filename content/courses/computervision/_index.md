@@ -9,7 +9,7 @@ weight: 1
 # Page metadata.
 title: Panoramica
 date: "2020-02-26T00:00:00Z"
-lastmod: "2020-02-26T00:00:00Z"
+lastmod: "2020-03-26T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -72,11 +72,13 @@ Competenze specifiche:
 ## Materiale didattico
 - Lucidi delle lezioni
 - Notebooks e lucidi delle esercitazioni
-- Libri:
+- Libri di consultazione:
 	- E.R. Davies, Computer Vision: Principles, Algorithms, Applications, Learning. Fifth edition. Elsevier/Academic Press, 2018 **[Davies18]**
 	- Jan Erik Solem, Programming Computer Vision with Python. O'Reilly Media, 2012. **[Solem12]**
 	- Mohamed Elgendy, [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems). Manning, 2020. **[Elg20]**
 	- Rafael C. Gonzalez, Richard E. Woods, Digital image processing. 4th edition. Pearson, 2018. **[Gon18]**
+	- Richard Szeliski, Computer Vision: Algorithms and Applications. Springer, 2011. **[Sze11]**
+	- Jason M.Kinser, Image operators: image processing in Python. CRC Press, 2019. **[Kin19]**
 
 ## Sillabo delle lezioni
 
@@ -86,6 +88,8 @@ Competenze specifiche:
 | 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |17/03/2020 |
 | 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
 | 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |19/03/2020 |
+| 3       | Filtri. Edge detection |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |24/03/2020 |
+
 
 
 

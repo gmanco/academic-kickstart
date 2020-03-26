@@ -3,7 +3,7 @@ title: Filtri
 linktitle: Filtri
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2020-03-26T00:00:00+01:00"
 draft: false
 
 menu:
@@ -25,9 +25,11 @@ La lezione è corredata di un notebook disponibile [qui](https://github.com/gman
 
 ## Riferimenti bibliografici
 
-- **[Davies18]**, ch. 3. 
+- **[Davies18]**, Ch. 3. 
 - **[Gon18]**, Ch. 3. 
 - **[Solem12]**, Ch. 1.
+- **[Sze11]**, sect. 3.2, 3.3.
+- **[Kin19]**, Ch. 2, 10-12.
 
 ## Link utili
 

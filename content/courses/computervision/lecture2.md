@@ -3,7 +3,7 @@ title: Concetti fondamentali su Image processing e analysis
 linktitle: Concetti fondamentali
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2020-03-26T00:00:00+01:00"
 draft: false
 
 menu:
@@ -29,6 +29,8 @@ La lezione è corredata di un notebook disponibile [qui](https://github.com/gman
 - **[Elg20]**, sect. 1.4-1.5. 
 - **[Gon18]**, Ch. 2-3. 
 - **[Solem12]**, Ch. 1.
+- **[Sze11]**, sect. 3.1, 3.6.
+- **[Kin19]**, Ch.1-6.
 
 ## Link utili
 
