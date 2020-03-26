@@ -9,17 +9,17 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 2
+    weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 5
 ---
 
 Derivate di immagini. Gradient-based filtering. 
 
 Slides disponibili [qui](../4.4.Edge Detection.pdf)
 
-La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/2.Filters.ipynb)
+La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/3.Edge_detection.ipynb)
 
 
 
