@@ -17,7 +17,7 @@ weight: 4
 
 Manipolazione spaziale. Filtri. Convoluzione. 
 
-Slides disponibili [qui](../3.Filters.pdf)
+Slides disponibili [qui](../pdf/3.Filters.pdf)
 
 La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/2.Filters.ipynb)
 

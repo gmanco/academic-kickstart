@@ -1,6 +1,6 @@
 ---
 title: Derivate. Edge Detection
-linktitle: Derivate
+linktitle: Derivate - Edge Detection
 toc: true
 type: docs
 date: "2020-03-26T00:00:00+01:00"
@@ -17,7 +17,7 @@ weight: 5
 
 Derivate di immagini. Gradient-based filtering. 
 
-Slides disponibili [qui](../4.4.Edge Detection.pdf)
+Slides disponibili [qui](../pdf/4.Edge Detection.pdf)
 
 La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/3.Edge_detection.ipynb)
 

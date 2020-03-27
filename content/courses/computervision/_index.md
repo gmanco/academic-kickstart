@@ -89,6 +89,7 @@ Competenze specifiche:
 | 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
 | 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |19/03/2020 |
 | 4       | Filtri. Edge detection |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |24/03/2020 |
+| 5       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
 
 
 
