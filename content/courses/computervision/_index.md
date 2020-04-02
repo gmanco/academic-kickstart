@@ -11,7 +11,7 @@ title: Panoramica
 date: "2020-02-26T00:00:00Z"
 lastmod: "2020-03-26T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -24,14 +24,13 @@ menu:
   
 ---
 
+## Annunci
 
-## **Importante**
+- **[02/04/2020]** E disponibile la lista degli argomenti per il primo esonero. La lista è disponibile [qui]({{< relref "../computervision/listOfFeatureDescriptors.md" >}}). Gli studenti che selgono di effettuare l'esonero devono comunicare le opzioni (3) al docente. Martedì 7 verrà comunicata l'assegnazione dei topic ai vari studenti. La deadline per la consegna degli elaborati è il 16 aprile 2020. 
+- **[03/03/2020]** Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 17/03/2019, alle ore 8:30. La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/channel/19%3ac60bff4a6e874db3b5e0d2034412ed18%40thread.tacv 2/Generale?groupId=b4509060-7b45-4eab-80ce-55182356fb88&tenantId=7519d0cd-2106-47d9- adcb-320023abff57). Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **khm7h4s**
 
-Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 17/03/2019, alle ore 8:30.
 
-La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/channel/19%3ac60bff4a6e874db3b5e0d2034412ed18%40thread.tacv 2/Generale?groupId=b4509060-7b45-4eab-80ce-55182356fb88&tenantId=7519d0cd-2106-47d9- adcb-320023abff57). 
 
-Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **khm7h4s**
 
 ## Breve descrizione del corso
 
@@ -87,10 +86,9 @@ Competenze specifiche:
 | ------- | ---------------------------------------------------- | ------------------- | ---------- |
 | 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |17/03/2020 |
 | 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
-| 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |19/03/2020 |
-| 4       | Filtri. Edge detection |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |24/03/2020 |
-| 5       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
-
-
+| 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |24/03/2020 |
+| 4       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
+| 5       | Edge detection. Fourier Transform. |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |31/03/2020 |
+| 6       | Classificazione. Feature detection & Description |      [Slides]({{< relref "../computervision/lecture5.md" >}}).    [Esonero]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})         |31/03/2020 |
 
 

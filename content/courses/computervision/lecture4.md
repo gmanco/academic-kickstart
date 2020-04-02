@@ -3,33 +3,39 @@ title: Derivate. Edge Detection
 linktitle: Derivate - Edge Detection
 toc: true
 type: docs
-date: "2020-03-26T00:00:00+01:00"
+date: "2020-04-02T00:00:00+01:00"
 draft: false
 
 menu:
   computervision:
     parent: Lezioni
-    weight: 5
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 6
 ---
 
-Derivate di immagini. Gradient-based filtering. 
+Derivate di immagini. Gradient-based filtering. trasformata di Fourier e Filtraggio. 
 
-Slides disponibili [qui](../pdf/4.Edge Detection.pdf)
+Slides disponibili: 
 
-La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/3.Edge_detection.ipynb)
+- [edge detection](../pdf/4a.Edge Detection.pdf)
+- [Fourier Transform](../pdf/4b.Edge_Detection.pdf)
+
+La lezione è corredata di due notebook: 
+
+- [Edge detection](https://github.com/gmanco/cv_notebooks/blob/master/3.Edge_detection.ipynb)
+- [Fourier Transform](https://github.com/gmanco/cv_notebooks/blob/master/4.Fourier_transform.ipynb)
 
 
 
 ## Riferimenti bibliografici
 
 - **[Davies18]**, ch. 5. 
-- **[Gon18]**, Ch. 3. 
+- **[Gon18]**, Ch. 3, 4. 
 - **[Solem12]**, Ch. 1.
 - **[Sze11]**, sect. 4.2.
-- **[Kin19]**, Ch. 13.
+- **[Kin19]**, Ch. 10, 11, 13.
 
 ## Link utili
 
@@ -37,3 +43,4 @@ La lezione è corredata di un notebook disponibile [qui](https://github.com/gman
 - [Introduction to Edge Detection](https://datacarpentry.org/image-processing/08-edge-detection/)
 - [Concept of Image detection](https://www.tutorialspoint.com/dip/concept_of_edge_detection.htm)
 - [OpenCV Python Tutorial: Image Gradients](https://www.youtube.com/watch?v=aDY4aBLFOIg)
+- [Filtraggio con la trasformata](https://medium.com/@hicraigchen/digital-image-processing-using-fourier-transform-in-python-bcb49424fd82)

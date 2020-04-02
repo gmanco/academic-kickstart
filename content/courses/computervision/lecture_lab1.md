@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 6
+    weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 5
 ---
 
 
