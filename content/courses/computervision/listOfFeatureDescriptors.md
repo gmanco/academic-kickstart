@@ -11,7 +11,6 @@ draft: false
 weight: 8
 ---
 
-
 #  Feature descriptors
 
 In questo esonero è chiesto agli studenti di sperimentare con un feature descriptr tra quelli elencati in seguito. In particolare si chiede di: 
@@ -53,3 +52,21 @@ Documentation at the home page of the [scikit-image feature description package]
 5. `skimage.feature.BRIEF`, BRIEF binary descriptor extractor. BRIEF (Binary Robust Independent Elementary Features) is an efficient feature point descriptor. It is highly discriminative even when using relatively few bits and is computed using simple intensity difference tests. Riferimenti: Calonder, Michael & Lepetit, Vincent & Strecha, Christoph & Fua, Pascal. (2010). [BRIEF: Binary Robust Independent Elementary Features](https://www.cs.ubc.ca/~lowe/525/papers/calonder_eccv10.pdf). Eur. Conf. Comput. Vis.. 6314. 778-792. 10.1007/978-3-642-15561-1_56.  
 6. `skimage.feature.ORB`, Oriented FAST and rotated BRIEF feature detector and binary descriptor extractor. Riferimenti: Ethan Rublee, Vincent Rabaud, Kurt Konolige and Gary Bradski. [ORB: An efficient alternative to SIFT and SURF](http://www.vision.cs.chubu.ac.jp/CV-R/pdf/Rublee_iccv2011.pdf). 
 
+## 
+
+#  Assegnazioni
+
+- Giulia Katia Galimberti  **SIFT** (OpenCV)
+- Maria Francesca Alati  **skimage.feature.hog**
+- Lorenzo Defina  **Mser** (OpenCV)
+- Emilio Casella  **Surf** (OpenCV)
+- Simona Nisticò matricola **ORB** (OpenCV)
+- Domenico Montesanto **AKAZE** (OpenCV)
+- Caterina Maugeri **skimage.feature.local_binary_pattern**
+- Giuseppe Surace  **skimage.feature.haar_like_feature**
+- Antonello Crea **Daisy** (OpenCV)
+- Anile Anna  **skimage.feature.BRIEF** 
+- Vincenzo Parrilla  **SURF with Harris Corner Detection**. (OpenCV)
+- Davide Medaglia **SIFT with Harris Corner Detection** (OpenCV)
+- Antonio Commisso **Brisk** (OpenCV)
+- Antonio Gagliostro: **skimage.feature.ORB** 

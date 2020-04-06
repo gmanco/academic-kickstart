@@ -34,6 +34,7 @@ Slides disponibili [qui](../pdf/1.Intro.pdf)
 - [A Beginner's guide to Computer Vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720)
 - [Everything you wanted to know about Computer Vision](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
 - [The Computer Vision Foundation](https://www.thecvf.com/)
+- [Three ways Computer Vision is transforming Marketing](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/three-ways-computer-vision-is-transforming-marketing/#1d6346d0214b)
 
 
 ## Approfondimenti (contributi dagli studenti): Alcune applicazioni per la computer vision
