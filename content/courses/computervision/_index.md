@@ -89,6 +89,7 @@ Competenze specifiche:
 | 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |24/03/2020 |
 | 4       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
 | 5       | Edge detection. Fourier Transform. |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |31/03/2020 |
-| 6       | Classificazione. Feature detection & Description |      [Slides]({{< relref "../computervision/lecture5.md" >}}).    [Esonero]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})         |31/03/2020 |
+| 6       | Classificazione. Feature detection & Description |      [Slides]({{< relref "../computervision/lecture5.md" >}}).    [Esonero]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})         |02/04/2020 |
+| 7       | Laboratorio: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |06/04/2020 |
 
 
