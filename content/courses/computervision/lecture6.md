@@ -19,7 +19,7 @@ Grafi di computazione e modelli non lineari. Reti Convoluzionali. LeNet-5.
 
 Materiale didattico: 
 
--  Modelli non lineari ([slides]())
+-  Modelli non lineari ([slides](../pdf/6a.Reti neurali_parte1.pdf))
 - Reti convoluzionali
 - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/6.Neural_networks.ipynb) di accompagnamento
 
