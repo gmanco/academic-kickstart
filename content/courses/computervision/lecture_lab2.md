@@ -1,6 +1,6 @@
 ---
 title: Pytorch, SKlearn and Classification
-linktitle: Esercitazione 2
+linktitle: Laboratorio 2 - SKlearn, Pytorch
 toc: true
 type: docs
 date: "2020-04-07T00:00:00+01:00"
@@ -24,7 +24,7 @@ Principali argomenti trattati:
 - Introduzione a Pytorch
 - Costruzione di un modello di NN
 
-La lezione è corredata di due notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/labs_lecture/lab02)
+La lezione è corredata di due notebook disponibili [qui](https://github.com/gmanco/cv_notebooks/blob/master/labs_lecture/lab02).
 
 
 

@@ -9,7 +9,7 @@ weight: 1
 # Page metadata.
 title: Panoramica
 date: "2020-02-26T00:00:00Z"
-lastmod: "2020-03-26T00:00:00Z"
+lastmod: "2020-04-18T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -90,6 +90,7 @@ Competenze specifiche:
 | 4       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
 | 5       | Edge detection. Fourier Transform. |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |31/03/2020 |
 | 6       | Classificazione. Feature detection & Description |      [Slides]({{< relref "../computervision/lecture5.md" >}}).    [Esonero]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})         |02/04/2020 |
-| 7       | Laboratorio: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |06/04/2020 |
+| 7       | Laboratorio: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |07/04/2020 |
+| 8       | Modelli non lineari. CNN |      [Slides, notebook]({{< relref "../computervision/lecture6.md" >}})               |17/04/2020 |
 
 
