@@ -8,7 +8,7 @@ draft: false
 
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 8
+weight: 100
 ---
 
 #  Feature descriptors

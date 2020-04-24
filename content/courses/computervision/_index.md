@@ -87,10 +87,11 @@ Competenze specifiche:
 | 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |17/03/2020 |
 | 2       | Concetti fondamentali su Image processing e analysis |      [Slides, notebook]({{< relref "../computervision/lecture2.md" >}})               |19/03/2020 |
 | 3       | Filtri |      [Slides, notebook]({{< relref "../computervision/lecture3.md" >}})               |24/03/2020 |
-| 4       | Laboratorio: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
-| 5       | Edge detection. Fourier Transform. |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |31/03/2020 |
+| 4       | Laboratorio 1: Image Processing in Python |      [Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}})               |26/03/2020 |
+| 5       | Edge detection. Fourier Transform |      [Slides, notebook]({{< relref "../computervision/lecture4.md" >}})               |31/03/2020 |
 | 6       | Classificazione. Feature detection & Description |      [Slides]({{< relref "../computervision/lecture5.md" >}}).    [Esonero]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})         |02/04/2020 |
-| 7       | Laboratorio: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |07/04/2020 |
-| 8       | Modelli non lineari. CNN |      [Slides, notebook]({{< relref "../computervision/lecture6.md" >}})               |17/04/2020 |
+| 7       | Laboratorio 2: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |07/04/2020 |
+| 8       | Modelli non lineari. CNN |      [Slides, notebook]({{< relref "../computervision/lecture6.md" >}})               |16/04/2020, 21/04/2020 |
+| 10 | Laboratorio 3: Architetture CNN, data augmentation, transfer learning | [Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |23/04/2020 |
 
 
