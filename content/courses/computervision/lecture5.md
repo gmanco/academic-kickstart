@@ -20,7 +20,7 @@ Derivate di immagini. Gradient-based filtering. trasformata di Fourier e Filtrag
 Slides disponibili [qui](../pdf/5.Classificazione.pdf)
 
 **Importante**
-La parte relativa allo studio dei feature descriptors riguarderà anche il primo esonero. I dettagli dell'esonero sono pubblicati [nell'apposita pagina]({{< relref "../computervision/listOfFeatureDescriptors.md" >}})
+La parte relativa allo studio dei feature descriptors riguarderà anche il primo esonero. I dettagli dell'esonero sono pubblicati [nell'apposita pagina]({{< relref "../computervision/esoneri/listOfFeatureDescriptors.md" >}})
 
 
 ## Riferimenti bibliografici

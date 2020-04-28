@@ -3,8 +3,8 @@ title: Object Detection
 linktitle: Object Detection
 toc: true
 type: docs
-date: "2020-04-21T00:00:00+01:00"
-draft: true
+date: "2020-04-28T00:00:00+01:00"
+draft: false
 
 menu:
   computervision:
@@ -15,17 +15,19 @@ menu:
 weight: 10
 ---
 
-Object detection. R-CNN. 
+Object detection. 
+
+- Region Proposal Networks: R-CNN, Fast R-CNN, Faster R-CNN. 
+- Single Shot Detectors: SSd, YOLO. 
 
 Materiale didattico: 
 
--  Modelli non lineari ([slides](../pdf/7.Reti neurali_parte3.pdf))
-- [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/7.Network_architectures.ipynb) di accompagnamento
+-  [slides](../pdf/8.Object_detection.pdf)
 
 
 ## Riferimenti bibliografici
 
-- **[Elg20]**, Ch. 4
+- **[Elg20]**, Ch. 7
 
 ## Link utili
 
@@ -39,9 +41,19 @@ Materiale didattico:
 
 - Faster R-CNN tutorials: [A guide to building Faster R-CNN in Pytorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439) e [Detecting objects in (almost) Real time](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
 
-- [Detectron](https://github.com/facebookresearch/detectron) and [Detectron2](https://github.com/facebookresearch/detectron2)
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 
 - [SSD Tutorial](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+
+- [Detectron](https://github.com/facebookresearch/detectron) and [Detectron2](https://github.com/facebookresearch/detectron2)
+
+- You Only Look Once: [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf), [YOLOv2](https://arxiv.org/pdf/1612.08242.pdf), [YOLOv3](https://arxiv.org/pdf/1804.02767.pdf)
+
+- [Understanding YOLO](http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html)
+
+- [What's new in YOLOv3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
+
+- [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
   
 

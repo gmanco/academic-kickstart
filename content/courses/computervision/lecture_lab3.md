@@ -28,7 +28,8 @@ Principali argomenti trattati:
 
 La lezione è corredata di [slides](../pdf/7.Reti neurali_parte3.pdf) e di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/labs_lecture/lab03).
 
-
+**Importante**
+Il secondo esonero riguarderà approfondimenti sulle reti convoluzionali. I dettagli dell'esonero sono pubblicati [nell'apposita pagina]({{< relref "../computervision/esoneri/convolution.md" >}}).
 
 ## Riferimenti bibliografici
 
