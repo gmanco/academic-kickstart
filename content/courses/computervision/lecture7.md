@@ -61,5 +61,7 @@ Materiale didattico:
 
 - [RetinaNet explained and demystified](https://blog.zenggyu.com/en/post/2018-12-05/retinanet-explained-and-demystified/#fn3)
 
+- [5 tools to create a custom object detection dataset](https://medium.com/@lekorotkov/5-tools-to-create-a-custom-object-detection-dataset-27ca37f91e05)
+
   
 
