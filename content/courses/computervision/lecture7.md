@@ -18,11 +18,13 @@ weight: 10
 Object detection. 
 
 - Region Proposal Networks: R-CNN, Fast R-CNN, Faster R-CNN. 
-- Single Shot Detectors: SSd, YOLO. 
+- Single Shot Detectors: SSD, RetinaNet, YOLO. 
 
 Materiale didattico: 
 
 -  [slides](../pdf/8.Object_detection.pdf)
+-  [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/8a.Object_Detection.ipynb) di accompagnamento
+-  [Demo YOLO](https://github.com/gmanco/cv_notebooks/blob/master/8b.YOLO_demo.ipynb)
 
 
 ## Riferimenti bibliografici
@@ -54,6 +56,10 @@ Materiale didattico:
 - [What's new in YOLOv3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
 - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+
+- [Review - RetinaNet](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4)
+
+- [RetinaNet explained and demystified](https://blog.zenggyu.com/en/post/2018-12-05/retinanet-explained-and-demystified/#fn3)
 
   
 

@@ -72,3 +72,34 @@ Prendere come riferimento la rete VGG16. Si studino gli effetti della normalizza
 
 
 
+#  Assegnazioni
+
+- Costa Davide **Alternative alla Batch Normalization**
+- Azzato Saverio **GoogleLeNet (aggiustamenti all’inception block)**
+- Sergi Alfredo **GoogLeNet (aggiustamenti alle residual connection)**
+- De Prete Alessandra **Saliency Maps using Flashtorch** 
+- Prospero Papaleo **ResNet** 
+- Lavecchia Umberto Mattia **GoogLeNet (con studio sulla batch normalization)**
+
+
+
+
+
+
+
+
+
+- Giulia Katia Galimberti  **SIFT** (OpenCV)
+- Maria Francesca Alati  **skimage.feature.hog**
+- Lorenzo Defina  **Mser** (OpenCV)
+- Emilio Casella  **Surf** (OpenCV)
+- Simona Nisticò matricola **ORB** (OpenCV)
+- Domenico Montesanto **AKAZE** (OpenCV)
+- Caterina Maugeri **skimage.feature.local_binary_pattern**
+- Giuseppe Surace  **skimage.feature.haar_like_feature**
+- Antonello Crea **Daisy** (OpenCV)
+- Anile Anna  **skimage.feature.BRIEF** 
+- Vincenzo Parrilla  **SURF with Harris Corner Detection**. (OpenCV)
+- Davide Medaglia **SIFT with Harris Corner Detection** (OpenCV)
+- Antonio Commisso **Brisk** (OpenCV)
+- Antonio Gagliostro: **skimage.feature.ORB** 
