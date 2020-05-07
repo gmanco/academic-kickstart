@@ -70,3 +70,22 @@ Documentation at the home page of the [scikit-image feature description package]
 - Davide Medaglia **SIFT with Harris Corner Detection** (OpenCV)
 - Antonio Commisso **Brisk** (OpenCV)
 - Antonio Gagliostro: **skimage.feature.ORB** 
+
+# Risultati
+
+| Studente               | Voto |
+| ---------------------- | ---- |
+| Alati Maria  Francesca | 8    |
+| Anile Anna             | 8    |
+| Casella Emilio         | 7    |
+| Commisso Antonio       | 7    |
+| Crea Antonello         | 10   |
+| Defina Lorenzo         | 6    |
+| Gagliostro Antonio     | 9    |
+| Galimberti Giulia      | 5    |
+| Maugeri Caterina       | 8    |
+| Medaglia Davide        | 8    |
+| Montesanto Domenico    | 7    |
+| Nisticò Simona         | 7    |
+| Parrilla Vincenzo      | 5    |
+| Surace Giuseppe        | 4    |

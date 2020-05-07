@@ -26,6 +26,7 @@ menu:
 
 ## Annunci
 
+- **[07/05/2020]** E disponibile la valutazione del primo esonero, nalla rispettiva [pagina]({{< relref "../computervision/esoneri/listOfFeatureDescriptors.md" >}}). 
 - **[28/04/2020]** E disponibile la lista degli argomenti per il secondo esonero. La lista è disponibile [qui]({{< relref "../computervision/esoneri/convolution.md" >}}). Gli studenti che selgono di effettuare l'esonero devono concordare l'opzione con il docente tramite email. La deadline per la consegna degli elaborati è il 10 maggio 2020.
 -  **[02/04/2020]** E disponibile la lista degli argomenti per il primo esonero. La lista è disponibile [qui]({{< relref "../computervision/esoneri/listOfFeatureDescriptors.md" >}}). Gli studenti che selgono di effettuare l'esonero devono comunicare le opzioni (3) al docente. Martedì 7 verrà comunicata l'assegnazione dei topic ai vari studenti. La deadline per la consegna degli elaborati è il 16 aprile 2020. 
 - **[03/03/2020]** Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 17/03/2019, alle ore 8:30. La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/channel/19%3ac60bff4a6e874db3b5e0d2034412ed18%40thread.tacv 2/Generale?groupId=b4509060-7b45-4eab-80ce-55182356fb88&tenantId=7519d0cd-2106-47d9- adcb-320023abff57). Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **khm7h4s**
@@ -94,6 +95,8 @@ Competenze specifiche:
 | 7       | Laboratorio 2: sklearn. Pytorch |      [Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}})               |07/04/2020 |
 | 8       | Modelli non lineari. CNN |      [Slides, notebook]({{< relref "../computervision/lecture6.md" >}})               |16/04/2020, 21/04/2020 |
 | 10 | Laboratorio 3: Architetture CNN, data augmentation, transfer learning | [Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |23/04/2020 |
-| 11 | Object Detection. Region Proposal Networks | [Slides]({{< relref "../computervision/lecture7.md" >}}) |28/04/2020 |
+| 11 | Object Detection. Region Proposal Networks, Single-Shot Detection. Yolo. | [Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |28/04/2020, 30/04/2020 |
+| 12 | Laboratorio 3: Object Detection | [Notebook]({{< relref "../computervision/lecture_lab4.md" >}}) |05/05/2020 |
+| 13 | Segmentazione | [Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |07/05/2020 |
 
 

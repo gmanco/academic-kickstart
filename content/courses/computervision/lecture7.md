@@ -55,6 +55,14 @@ Materiale didattico:
 
 - [What's new in YOLOv3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
+- [Speed and accuracy comparison in object detection](https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359)
+
+- [YOLOv4](https://arxiv.org/abs/2004.10934) paper (with [code](https://github.com/AlexeyAB/darknet))
+
+- [YOLOv4 -  Superior, faster and more accurate](https://medium.com/@riteshkanjee/yolov4-superior-faster-more-accurate-object-detection-7e8194bf1872)
+
+- [YOLOv4 in Pytorch](https://medium.com/@michaelchan_2146/faster-real-time-object-detection-yolov4-in-pytorch-6eef8436ba75)
+
 - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
 - [Review - RetinaNet](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4)
