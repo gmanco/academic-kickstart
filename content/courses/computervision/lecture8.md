@@ -3,7 +3,7 @@ title: Segmentation
 linktitle: Segmentation
 toc: true
 type: docs
-date: "2020-05-07T00:00:00+01:00"
+date: "2020-05-12T00:00:00+01:00"
 draft: false
 
 menu:
@@ -15,13 +15,11 @@ menu:
 weight: 12
 ---
 
-Segmentation.
+-  Segmentation.
 
-- Approcci classici ([slides](../pdf/8.Object_detection.pdf)).
-
-
-
-[Notebook](https://github.com/gmanco/cv_notebooks/blob/master/9.Segmentation.ipynb) di accompagnamento
+   - Approcci classici. Conditional Random Fields ([slides](../pdf/9a.Segmentation_part1.pdf)).
+   - Approcci Neurali. Semantic Segmentation. Instance Segmentation.
+   - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/9.Segmentation.ipynb) di accompagnamento
 
 
 ## Riferimenti bibliografici
@@ -32,9 +30,19 @@ Segmentation.
 
 ## Link utili
 
-- [A simple guide to semantic Segmentation](https://www.topbots.com/semantic-segmentation-guide/) and [A 2019 guide to semantic segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
+- [An Introduction to Conditional Random Fields](https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
-- https://towardsdatascience.com/conditional-random-fields-explained-e5b8256da776
+- [Structured Learning and Prediction in Computer Vision](http://www.nowozin.net/sebastian/papers/nowozin2011structured-tutorial.pdf)
+
+- [An experimental Comparison of Min-cut/Max Flow algorithms for Energy Minimization in Vision](https://www.csd.uwo.ca/~yboykov/Papers/pami04.pdf)
+
+- [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/pdf/1210.5644.pdf) (with [Supplemental Material](http://vladlen.info/papers/densecrf-supplementary.pdf))
+
+- [Conditional Random Fields explained](https://towardsdatascience.com/conditional-random-fields-explained-e5b8256da776)
+
+- [Introduction to Conditional Random Fields](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
+- [A simple guide to semantic Segmentation](https://www.topbots.com/semantic-segmentation-guide/) and [A 2019 guide to semantic segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
 
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211)
 
@@ -61,6 +69,18 @@ Segmentation.
 - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 
 - Review: [DeepLabv2](https://towardsdatascience.com/review-deeplabv1-deeplabv2-atrous-convolution-semantic-segmentation-b51c5fbde92d) e [DeepLabv3](https://towardsdatascience.com/review-deeplabv3-atrous-convolution-semantic-segmentation-6d818bfd1d74)
+
+- [Speeding up Semantic segmentation for autonomous driving](https://openreview.net/pdf?id=S1uHiFyyg)
+
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+
+- [Image Segmentation with Mask R-CNN](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)
+
+- [Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/pdf/1611.07709.pdf)
+
+- [YOLACT](https://arxiv.org/pdf/1904.02689.pdf) and [YOLOACT++](https://arxiv.org/abs/1912.06218)
+
+- [Pantropic Segmentation](https://arxiv.org/pdf/1801.00868.pdf)
 
   
 
