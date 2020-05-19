@@ -17,9 +17,9 @@ weight: 12
 
 -  Segmentation.
 
-   - Approcci classici. Conditional Random Fields ([slides](../pdf/9a.Segmentation_part1.pdf)).
-   - Approcci Neurali. Semantic Segmentation. Instance Segmentation.
-   - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/9.Segmentation.ipynb) di accompagnamento
+   - Approcci classici. Conditional Random Fields. [slides](../pdf/9a.Segmentation_part1.pdf).
+   - Approcci Neurali. Semantic Segmentation. Instance Segmentation. [slides](../pdf/9a.Segmentation_part2.pdf).
+   - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/9.Segmentation.ipynb) di accompagnamento.
 
 
 ## Riferimenti bibliografici
@@ -71,6 +71,14 @@ weight: 12
 - Review: [DeepLabv2](https://towardsdatascience.com/review-deeplabv1-deeplabv2-atrous-convolution-semantic-segmentation-b51c5fbde92d) e [DeepLabv3](https://towardsdatascience.com/review-deeplabv3-atrous-convolution-semantic-segmentation-6d818bfd1d74)
 
 - [Speeding up Semantic segmentation for autonomous driving](https://openreview.net/pdf?id=S1uHiFyyg)
+
+- [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147.pdf)
+
+- [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](ICNet for Real-Time Semantic Segmentation on High-Resolution Images)
+
+- [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502)
+
+- [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.html)
 
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 

@@ -97,6 +97,7 @@ Competenze specifiche:
 | 10 | Laboratorio 3: Architetture CNN, data augmentation, transfer learning | [Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |23/04/2020 |
 | 11 | Object Detection. Region Proposal Networks, Single-Shot Detection. Yolo. | [Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |28/04/2020, 30/04/2020 |
 | 12 | Laboratorio 3: Object Detection | [Notebook]({{< relref "../computervision/lecture_lab4.md" >}}) |05/05/2020 |
-| 13 | Segmentazione. | [Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |07/05/2020, 12/05/2020 |
+| 13 | Segmentazione | [Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |07/05/2020, 12/05/2020, 14/05/2020 |
+| 14 | Action Recognition | [Slides, notebooks]({{< relref "../computervision/lecture9.md" >}}) |19/05/2020 |
 
 

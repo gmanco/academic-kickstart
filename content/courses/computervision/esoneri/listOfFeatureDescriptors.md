@@ -86,6 +86,6 @@ Documentation at the home page of the [scikit-image feature description package]
 | Maugeri Caterina       | 8    |
 | Medaglia Davide        | 8    |
 | Montesanto Domenico    | 7    |
-| Nisticò Simona         | 7    |
-| Parrilla Vincenzo      | 5    |
+| Nisticò Simona         | 9    |
+| Parrilla Vincenzo      | 7    |
 | Surace Giuseppe        | 4    |
