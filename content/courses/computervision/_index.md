@@ -99,5 +99,7 @@ Competenze specifiche:
 | 12 | Laboratorio 3: Object Detection | [Notebook]({{< relref "../computervision/lecture_lab4.md" >}}) |05/05/2020 |
 | 13 | Segmentazione | [Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |07/05/2020, 12/05/2020, 14/05/2020 |
 | 14 | Action Recognition | [Slides, notebooks]({{< relref "../computervision/lecture9.md" >}}) |19/05/2020 |
+| 15 | Modelli generativi. Variational Autoencoders | [Slides, notebooks]({{< relref "../computervision/lecture10.md" >}}) |21/05/2020 |
+| 16 | Generative Adversarial Networks. Image translation | [Slides, notebooks]({{< relref "../computervision/lecture11.md" >}}) |26/05/2020 |
 
 
