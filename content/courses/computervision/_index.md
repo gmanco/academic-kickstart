@@ -26,7 +26,7 @@ menu:
 
 ## Annunci
 
-- **[09/06/2020]** Rilasciate le [specifiche]({{< relref "../computervision/project_spec.md" >}}) progetto per esame del 01/07/2020. La consegna degli elaborati deve avvenire il 28/06/2020. 
+- **[09/06/2020]** Rilasciate le [specifiche]({{< relref "../computervision/progetti/project1_spec.md" >}}) progetto per esame del 01/07/2020. La consegna degli elaborati deve avvenire il 28/06/2020. 
 - **[08/06/2020]** E disponibile la valutazione del secondo esonero, nalla rispettiva [pagina]({{< relref "../computervision/esoneri/convolution.md" >}}). 
 - **[07/05/2020]** E disponibile la valutazione del primo esonero, nalla rispettiva [pagina]({{< relref "../computervision/esoneri/listOfFeatureDescriptors.md" >}}). 
 - **[28/04/2020]** E disponibile la lista degli argomenti per il secondo esonero. La lista è disponibile [qui]({{< relref "../computervision/esoneri/convolution.md" >}}). Gli studenti che selgono di effettuare l'esonero devono concordare l'opzione con il docente tramite email. La deadline per la consegna degli elaborati è il 10 maggio 2020.
