@@ -57,3 +57,4 @@ weight: 15
 - [Deepfake Videos: GAN synthesizes a Video from a Single Photo](https://neurohive.io/en/news/deepfake-videos-gan-sythesizes-a-video-from-a-single-photo/)
 - Neural Style Transfer [Tutorial]([https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
 - [A Neural algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
+- [A Deep Journey into Superresolution](https://dl.acm.org/doi/abs/10.1145/3390462)

@@ -71,5 +71,7 @@ Materiale didattico:
 
 - [5 tools to create a custom object detection dataset](https://medium.com/@lekorotkov/5-tools-to-create-a-custom-object-detection-dataset-27ca37f91e05)
 
+- **NEW** [DETR: End-to-end object detection with Transformers](https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers/)
+
   
 

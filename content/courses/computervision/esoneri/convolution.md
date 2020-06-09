@@ -80,3 +80,14 @@ Prendere come riferimento la rete VGG16. Si studino gli effetti della normalizza
 - De Prete Alessandra **Saliency Maps using Flashtorch** 
 - Prospero Papaleo **ResNet** 
 - Lavecchia Umberto Mattia **GoogLeNet (con studio sulla batch normalization)**
+
+# Risultati
+
+| Studente             | Voto |
+| -------------------- | ---- |
+| Azzato Saverio       | 7    |
+| Costa Davide         | 10   |
+| Del Prete Alessandra | 10   |
+| Lavecchia Mattia     | 5    |
+| Papaleo Prospero     | 6    |
+| Sergi Alfredo        | 7    |
