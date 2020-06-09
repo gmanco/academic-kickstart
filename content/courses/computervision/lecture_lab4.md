@@ -1,6 +1,6 @@
 ---
 title: Object Detection
-linktitle: Esercitazione 3 - Object Detection
+linktitle: Esercitazione 4 - Object Detection
 toc: true
 type: docs
 date: "2020-05-05T00:00:00+01:00"

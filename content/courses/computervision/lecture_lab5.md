@@ -1,6 +1,6 @@
 ---
 title: CycleGAN and DeepFake
-linktitle: Esercitazione 7
+linktitle: Esercitazione 5 - Generative Adversarial Networks
 toc: true
 type: docs
 date: "2020-04-23T00:00:00+01:00"
@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 5
+    weight: 16
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 16
 ---
 
 
