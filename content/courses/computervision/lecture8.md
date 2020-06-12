@@ -18,7 +18,7 @@ weight: 12
 -  Segmentation.
 
    - Approcci classici. Conditional Random Fields. [slides](../pdf/9a.Segmentation_part1.pdf).
-   - Approcci Neurali. Semantic Segmentation. Instance Segmentation. [slides](../pdf/9a.Segmentation_part2.pdf).
+   - Approcci Neurali. Semantic Segmentation. Instance Segmentation. [slides](../pdf/9b.Segmentation_part2.pdf).
    - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/9.Segmentation.ipynb) di accompagnamento.
 
 
