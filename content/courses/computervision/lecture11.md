@@ -40,6 +40,7 @@ weight: 15
 - [Improved training fo Wasserstein GANs](http://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans) (with some [tricks](https://github.com/t-vi/pytorch-tvmisc/blob/master/wasserstein-distance/Semi-Improved_Training_of_Wasserstein_GAN.ipynb) on how to implement it in Pytorch)
 - [A collection of Generative Models in Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
 - [How to train a GAN?](https://github.com/soumith/ganhacks) ([video](https://www.youtube.com/watch?v=Qc1F3-Rblbw))
+- [MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks](https://arxiv.org/pdf/1903.06048.pdf) 
 - [Conditional Generative Adversarial Networks](https://arxiv.org/abs/1411.1784)
 - [Image to image translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 - [A gentle introduction to CycleGAN for Image Translation](https://towardsdatascience.com/a-gentle-introduction-to-cycle-consistent-adversarial-networks-6731c8424a87)
