@@ -19,8 +19,8 @@ Derivate di immagini. Gradient-based filtering. trasformata di Fourier e Filtrag
 
 Slides disponibili: 
 
-- [edge detection](../pdf/4a.Edge Detection.pdf)
-- [Fourier Transform](../pdf/4b.Edge_Detection.pdf)
+- [edge detection](../pdf/4a.Edge_Detection.pdf)
+- [Fourier Transform](../pdf/4b.FFT.pdf)
 
 La lezione è corredata di due notebook: 
 
