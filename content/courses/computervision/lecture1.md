@@ -17,7 +17,7 @@ weight: 2
 
 Introduzione al corso. Image Processing, Analysis e Computer Vision. 
 
-Slides disponibili [qui](../pdf/1.Intro.pdf)
+Slides disponibili [qui](../pdf/1.Intro.pdf) (Con [video](https://web.microsoftstream.com/video/23e0ae1c-3fd8-44b0-adb5-1db861a8d0c9) associato su Microsoft Stream)
 
 
 ## Riferimenti bibliografici
