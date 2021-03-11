@@ -17,7 +17,7 @@ weight: 4
 
 Concetti fondamentali su Image processing e analysis: Image Basics, Manipolazione di immagini. Introduzione alle librerie Python per Image Processing. 
 
-Slides disponibili [qui](../pdf/2.Image_fundamentals.pdf)
+Slides disponibili [qui](../pdf/2.Image_fundamentals.pdf) (con [video](https://web.microsoftstream.com/video/d6f46094-e54b-49e8-b86b-996caf39058a?list=studio) della lezione e [appunti](../pdf/l2_appunti.pdf) allegati). 
 
 La lezione è corredata di un notebook disponibile [qui](https://github.com/gmanco/cv_notebooks/blob/master/1.Image_fundamentals.ipynb)
 
