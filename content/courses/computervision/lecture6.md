@@ -7,19 +7,19 @@ date: "2020-04-02T00:00:00+01:00"
 draft: false
 
 menu:
-  2020:
+  computervision:
     parent: Lezioni
-    weight: 7
+    weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 7
+weight: 8
 ---
 
 Introduzione al supervised learning. Regressione logistica. Feature descriptors. Harris Corner Detection. SIFT.
 
 Slides disponibili: 
 
-- [Introduzione alla classificatione](../pdf/6a.Classificazione.pdf). [Video](https://web.microsoftstream.com/video/3709906f-41a8-4557-9e53-118a2b453b6a) della lezione, con appunti [allegati](../pdf/l6_appunti..pdf). 
+- [Introduzione alla classificatione](../pdf/6a.Classificazione.pdf). [Video](https://web.microsoftstream.com/video/3709906f-41a8-4557-9e53-118a2b453b6a) della lezione, con appunti [allegati](../pdf/l6_appunti.pdf). 
 
 
 ## Riferimenti bibliografici
