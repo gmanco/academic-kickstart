@@ -17,7 +17,7 @@ weight: 6
 
 Edge Detection. Canny Edge Detection. Hough Transform. 
 
-Slides disponibili [qui](../pdf/5.Edges_lines_shapes.pdf). La lezione è corredata di un [notebook](https://github.com/gmanco/cv_notebooks/blob/master/5.Edges_lines_circles.ipynb).
+Slides disponibili [qui](../pdf/5.Edges_lines_shapes.pdf). La lezione è corredata di un [notebook](https://github.com/gmanco/cv_notebooks/blob/master/5.Edges_lines_circles.ipynb). Il video della lezione è disponibile [qui](https://web.microsoftstream.com/video/0d774350-bb0b-48fd-a11e-ec33464421fc).
 
 
 

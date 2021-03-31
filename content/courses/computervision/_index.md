@@ -88,6 +88,10 @@ Competenze specifiche:
 | 2 | Python and image processing |[Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}}) |04/03/2021 |
 | 3 | Concetti fondamentali su image processing e analysis |[Slides, notebook]({{< relref "../computervision/lecture2.md" >}}) |09/03/2021 |
 | 4 | Filtri |[Slides, notebook]({{< relref "../computervision/lecture3.md" >}}) |11/03/2021 |
-| 5 | Filtraggio Spaziale e sulle frequenze. Edge Detection |[Slides, notebook]({{< relref "../computervision/lecture4.md" >}}) |16/03/2021 |
+| 5 | Laboratorio: image processing in Python |[Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}}) |16/03/2021 |
+| 6 | Filtraggio Spaziale e sulle frequenze. Edge Detection |[Slides, notebook]({{< relref "../computervision/lecture4.md" >}}) |18/03/2021 |
+| 7 | Edges, lines, shapes |[Slides, notebook]({{< relref "../computervision/lecture5.md" >}}) |23/03/2021 |
+| 8 | Laboratorio: Filtri, edge detection |[Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |25/05/2021 |
+| 9 | Introduzione alla Classification. Features |[Slides]({{< relref "../computervision/lecture6.md" >}}) |30/05/2021 |
 
 

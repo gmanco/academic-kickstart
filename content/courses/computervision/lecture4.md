@@ -27,7 +27,7 @@ La lezione è corredata di due notebook:
 - [Edge detection](https://github.com/gmanco/cv_notebooks/blob/master/3.Edge_detection.ipynb)
 - [Fourier Transform](https://github.com/gmanco/cv_notebooks/blob/master/4.Fourier_transform.ipynb)
 
-
+Il video di riferimento della lezione è disponibile [qui](https://web.microsoftstream.com/video/07df3bb6-5d74-47c2-8070-33d6cdacd2b4)
 
 ## Riferimenti bibliografici
 
