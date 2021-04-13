@@ -26,6 +26,7 @@ menu:
 
 ## Annunci
 
+-  **[12/04/2021]** I risultati del primo esonero  sono disponibili al seguente [link]({{< relref "../computervision/esoneri/esonero1.md" >}}). 
 -  **[01/03/2021]** Questo è il sito web dell'edizione 2020-2021 del corso. L'edizione precedente è disponibile al sequente [link]({{< relref "../computervision/2020" >}}). 
 - **[03/03/2021]** Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà inizialmente erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 02/03/2019, alle ore 11:30. La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/team/19%3a85cc03830d8145e9b23ab2b9f21641f0%40thread.tacv2/conversations?groupId=8bbaa92e-68d3-4c10-887f-157c5a2392ab&tenantId=7519d0cd-2106-47d9-adcb-320023abff57). Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **czo3mqk**
 
