@@ -93,6 +93,6 @@ Competenze specifiche:
 | 6 | Filtraggio Spaziale e sulle frequenze. Edge Detection |[Slides, notebook]({{< relref "../computervision/lecture4.md" >}}) |18/03/2021 |
 | 7 | Edges, lines, shapes |[Slides, notebook]({{< relref "../computervision/lecture5.md" >}}) |23/03/2021 |
 | 8 | Laboratorio: Filtri, edge detection |[Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |25/03/2021 |
-| 9 | Introduzione alla Classification. Features |[Slides]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021 |
+| 9 | Introduzione alla Classification. Features |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021, 15/04/2021 |
 
 

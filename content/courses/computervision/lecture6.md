@@ -20,7 +20,12 @@ Introduzione al supervised learning. Regressione logistica. Feature descriptors.
 Slides disponibili: 
 
 - [Introduzione alla classificatione](../pdf/6a.Classificazione.pdf). [Video](https://web.microsoftstream.com/video/3709906f-41a8-4557-9e53-118a2b453b6a) della lezione, con appunti [allegati](../pdf/l6_appunti.pdf). 
-- [Keypoint detection and Descritpors](../pdf/6a.Classificazione.pdf). [Video](https://web.microsoftstream.com/video/544b3842-6736-4a41-b7e2-5bd033fd9a80) della lezione, con appunti [allegati]((../pdf/l7_appunti.pdf). 
+- [Keypoint detection and Descritpors](../pdf/6b.Features.pdf). [Video](https://web.microsoftstream.com/video/544b3842-6736-4a41-b7e2-5bd033fd9a80) della lezione, con appunti [allegati]((../pdf/l7_appunti.pdf). 
+
+Notebooks di studio: 
+
+- [Harris corner detector](https://github.com/gmanco/cv_notebooks/blob/master/6a.Features_Harris.ipynb)
+- SIFT
 
 
 ## Riferimenti bibliografici
@@ -40,3 +45,7 @@ Slides disponibili:
 - [Harris Corner Detection](https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6)
 - [SIFT: Theory and Practice](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-features/)
 - [OpenCV Tutorials on Feature Descriptors](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html)
+- [Distinctive image features from scale invariant Keypoints](https://people.eecs.berkeley.edu/~malik/cs294/lowe-ijcv04.pdf)
+- [The laplacian pyramid as a compact image](http://persci.mit.edu/pub_pdfs/pyramid83.pdf)
+- [SIFT: a detailed description](https://towardsdatascience.com/sift-scale-invariant-feature-transform-c7233dc60f37)
+
