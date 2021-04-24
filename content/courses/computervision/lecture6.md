@@ -20,12 +20,12 @@ Introduzione al supervised learning. Regressione logistica. Feature descriptors.
 Slides disponibili: 
 
 - [Introduzione alla classificatione](../pdf/6a.Classificazione.pdf). [Video](https://web.microsoftstream.com/video/3709906f-41a8-4557-9e53-118a2b453b6a) della lezione, con appunti [allegati](../pdf/l6_appunti.pdf). 
-- [Keypoint detection and Descritpors](../pdf/6b.Features.pdf). [Video](https://web.microsoftstream.com/video/544b3842-6736-4a41-b7e2-5bd033fd9a80) della lezione, con appunti [allegati]((../pdf/l7_appunti.pdf). 
+- [Keypoint detection and Descritpors](../pdf/6b.Features.pdf). [Video](https://web.microsoftstream.com/video/544b3842-6736-4a41-b7e2-5bd033fd9a80) della lezione, con appunti [allegati](../pdf/l7_appunti.pdf). 
 
 Notebooks di studio: 
 
 - [Harris corner detector](https://github.com/gmanco/cv_notebooks/blob/master/6a.Features_Harris.ipynb)
-- SIFT
+- [SIFT](https://github.com/gmanco/cv_notebooks/blob/master/labs_lecture/lab04/6b_Features_SIFT.ipynb)
 
 
 ## Riferimenti bibliografici
