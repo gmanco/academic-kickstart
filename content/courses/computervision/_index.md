@@ -96,5 +96,6 @@ Competenze specifiche:
 | 9 | Introduzione alla Classification. Features |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021, 15/04/2021 |
 | 10 | Reti Neurali. Convoluzione |[Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |20/04/2021 |
 | 11 | Convoluzione. Laboratorio: SIFT, Introduzione a Pytorch |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |22/04/2021 |
+| 12 | Architetture convoluzionali |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |27/04/2021 |
 
 
