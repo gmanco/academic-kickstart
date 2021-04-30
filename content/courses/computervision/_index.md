@@ -97,5 +97,6 @@ Competenze specifiche:
 | 10 | Reti Neurali. Convoluzione |[Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |20/04/2021 |
 | 11 | Convoluzione. Laboratorio: SIFT, Introduzione a Pytorch |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |22/04/2021 |
 | 12 | Architetture convoluzionali |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |27/04/2021 |
+| 13 | Object Detection |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |29/04/2021, 04/05/2021 |
 
 
