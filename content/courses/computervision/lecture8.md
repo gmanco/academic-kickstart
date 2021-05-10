@@ -57,6 +57,8 @@ Materiale didattico:
 
 - [What's new in YOLOv3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
+- [YOLOv3 from Scratch](https://www.youtube.com/watch?v=Grir6TZbc1M)
+
 - [Speed and accuracy comparison in object detection](https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359)
 
 - [YOLOv4](https://arxiv.org/abs/2004.10934) paper (with [code](https://github.com/AlexeyAB/darknet))
@@ -76,6 +78,8 @@ Materiale didattico:
 - [5 tools to create a custom object detection dataset](https://medium.com/@lekorotkov/5-tools-to-create-a-custom-object-detection-dataset-27ca37f91e05)
 
 - **NEW** [DETR: End-to-end object detection with Transformers](https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers/)
+
+- **NEW** [EfficientDet](https://analyticsindiamag.com/efficientdet/)
 
   
 

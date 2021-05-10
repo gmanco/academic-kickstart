@@ -98,5 +98,6 @@ Competenze specifiche:
 | 11 | Convoluzione. Laboratorio: SIFT, Introduzione a Pytorch |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |22/04/2021 |
 | 12 | Architetture convoluzionali |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |27/04/2021 |
 | 13 | Object Detection |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |29/04/2021, 04/05/2021 |
-
+| 14 | Laboratorio: Object detection |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |06/05/2021 |
+| 15 | Segmentazione |[Slides, notebooks]({{< relref "../computervision/lecture9.md" >}}) |10/05/2021, 11/05/2021 |
 
