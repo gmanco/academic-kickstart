@@ -26,6 +26,7 @@ menu:
 
 ## Annunci
 
+-  **[30/06/2021]** Le specifiche per il secondo appello di Luglio del progetto sono disponibili nella [pagina github](https://github.com/gmanco/cv_notebooks/tree/master/project_2).
 -  **[22/05/2021]** I risultati del secondo esonero  sono disponibili al seguente [link]({{< relref "../computervision/esoneri/esonero2.md" >}}). 
 -  **[12/04/2021]** I risultati del primo esonero  sono disponibili al seguente [link]({{< relref "../computervision/esoneri/esonero1.md" >}}). 
 -  **[01/03/2021]** Questo è il sito web dell'edizione 2020-2021 del corso. L'edizione precedente è disponibile al sequente [link]({{< relref "../computervision/2020" >}}). 
@@ -94,7 +95,7 @@ Competenze specifiche:
 | 6 | Filtraggio Spaziale e sulle frequenze. Edge Detection |[Slides, notebook]({{< relref "../computervision/lecture4.md" >}}) |18/03/2021 |
 | 7 | Edges, lines, shapes |[Slides, notebook]({{< relref "../computervision/lecture5.md" >}}) |23/03/2021 |
 | 8 | Laboratorio: Filtri, edge detection |[Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |25/03/2021 |
-| 9 | Introduzione alla Classification. Features |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021, 15/04/2021 |
+| 9 | Introduzione alla Classificatione. Features |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021, 15/04/2021 |
 | 10 | Reti Neurali. Convoluzione |[Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |20/04/2021 |
 | 11 | Convoluzione. Laboratorio: SIFT, Introduzione a Pytorch |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |22/04/2021 |
 | 12 | Architetture convoluzionali |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |27/04/2021 |
