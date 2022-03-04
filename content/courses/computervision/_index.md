@@ -26,11 +26,9 @@ menu:
 
 ## Annunci
 
--  **[30/06/2021]** Le specifiche per il secondo appello di Luglio del progetto sono disponibili nella [pagina github](https://github.com/gmanco/cv_notebooks/tree/master/project_2).
--  **[22/05/2021]** I risultati del secondo esonero  sono disponibili al seguente [link]({{< relref "../computervision/esoneri/esonero2.md" >}}). 
--  **[12/04/2021]** I risultati del primo esonero  sono disponibili al seguente [link]({{< relref "../computervision/esoneri/esonero1.md" >}}). 
--  **[01/03/2021]** Questo è il sito web dell'edizione 2020-2021 del corso. L'edizione precedente è disponibile al sequente [link]({{< relref "../computervision/2020" >}}). 
-- **[03/03/2021]** Si avvisano gli studenti che il corso di Analisi di Immagini e Video – Corso di Laurea Magistrale in Ingegneria Informatica verrà inizialmente erogato in modalità streaming, utilizzando l’applicativo TEAMS, a partire dal giorno 02/03/2019, alle ore 11:30. La richiesta di iscrizione al corso può essere effettuata cliccando sul seguente [link](https://teams.microsoft.com/l/team/19%3a85cc03830d8145e9b23ab2b9f21641f0%40thread.tacv2/conversations?groupId=8bbaa92e-68d3-4c10-887f-157c5a2392ab&tenantId=7519d0cd-2106-47d9-adcb-320023abff57). Gli studenti già pratici dell’utilizzo di TEAMS e che abbiano già scaricato l’APP, possono iscriversi direttamente al corso (senza approvazione del docente) utilizzando il codice: **czo3mqk**
+- **[02/03/2022]** Questo è il sito web dell'edizione 2021-2022 del corso. Le edizioni precedenti sono disponibili al ai link [2020]({{< relref "../computervision/2020" >}}) e [2021]({{< relref "../computervision/2021" >}}). 
+
+  
 
 
 
@@ -79,30 +77,14 @@ Competenze specifiche:
 	- Jan Erik Solem, Programming Computer Vision with Python. O'Reilly Media, 2012. **[Solem12]**
 	- Mohamed Elgendy, [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems). Manning, 2020. **[Elg20]**
 	- Rafael C. Gonzalez, Richard E. Woods, Digital image processing. 4th edition. Pearson, 2018. **[Gon18]**
-	- Richard Szeliski, Computer Vision: Algorithms and Applications. Springer, 2011. **[Sze11]**
+	- Richard Szeliski, Computer Vision: Algorithms and Applications. Springer, 2022. **[Sze22]**
 	- Jason M.Kinser, Image operators: image processing in Python. CRC Press, 2019. **[Kin19]**
+	
 
 ## Sillabo delle lezioni
 
 
 | Lezione | Argomenti                                            | Materiale didattico | Data       |
 | ------- | ---------------------------------------------------- | ------------------- | ---------- |
-| 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}) |02/03/2021 |
-| 2 | Python and image processing |[Slides, notebook]({{< relref "../computervision/lecture_lab1.md" >}}) |04/03/2021 |
-| 3 | Concetti fondamentali su image processing e analysis |[Slides, notebook]({{< relref "../computervision/lecture2.md" >}}) |09/03/2021 |
-| 4 | Filtri |[Slides, notebook]({{< relref "../computervision/lecture3.md" >}}) |11/03/2021 |
-| 5 | Laboratorio: image processing in Python |[Slides, notebook]({{< relref "../computervision/lecture_lab2.md" >}}) |16/03/2021 |
-| 6 | Filtraggio Spaziale e sulle frequenze. Edge Detection |[Slides, notebook]({{< relref "../computervision/lecture4.md" >}}) |18/03/2021 |
-| 7 | Edges, lines, shapes |[Slides, notebook]({{< relref "../computervision/lecture5.md" >}}) |23/03/2021 |
-| 8 | Laboratorio: Filtri, edge detection |[Slides, notebook]({{< relref "../computervision/lecture_lab3.md" >}}) |25/03/2021 |
-| 9 | Introduzione alla Classificatione. Features |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |30/03/2021, 13/04/2021, 15/04/2021 |
-| 10 | Reti Neurali. Convoluzione |[Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |20/04/2021 |
-| 11 | Convoluzione. Laboratorio: SIFT, Introduzione a Pytorch |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |22/04/2021 |
-| 12 | Architetture convoluzionali |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |27/04/2021 |
-| 13 | Object Detection |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |29/04/2021, 04/05/2021 |
-| 14 | Laboratorio: Object detection |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |06/05/2021 |
-| 15 | Segmentazione |[Slides, notebooks]({{< relref "../computervision/lecture9.md" >}}) |10/05/2021, 11/05/2021 |
-| 16 | Action Recognition |[Slides, notebooks]({{< relref "../computervision/lecture10.md" >}}) |18/05/2021 |
-| 17 | Modelli Generativi |[Slides, notebooks]({{< relref "../computervision/lecture11.md" >}}) |24/05/2021, 25/05/2021 |
-| 18 | Laboratorio: Modelli generativi. Progetto | |31/05/2021 |
+| 1       | Introduzione al corso |[Slides]({{< relref "../computervision/lecture1.md" >}}), |02/03/2022 |
 
