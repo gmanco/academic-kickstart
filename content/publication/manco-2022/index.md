@@ -1,5 +1,5 @@
 ---
-title: "A Factorization Approach for Survival Analysis on Diffusion Networks"
+title: "Machine learning methods for generating high dimensional discrete datasets"
 date: 2022-02-18
 publishDate: 2022-02-18T09:18:44.877085Z
 authors: ["Giuseppe Manco", "Ettore Ritacco", "Antonino Rullo", "Domenico Saccà", "Edoardo Serra"]
