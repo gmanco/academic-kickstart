@@ -86,6 +86,6 @@ Competenze specifiche:
 
 | Lezione | Argomenti                                            | Materiale didattico | Data       |
 | ------- | ---------------------------------------------------- | ------------------- | ---------- |
-| 1       | Introduzione al corso. Image fundamentals |[Slides]({{< relref "../computervision/lecture1.md" >}}) |02/03/2022 |
-| 2 | Image processing. Filtri |[Slides, notebooks]({{< relref "../computervision/lecture2.md" >}}) | |
+| 1       | Introduzione al corso. Image fundamentals |[Slides, notebook]({{< relref "../computervision/lecture1.md" >}}) |02/03/2022 |
+| 2 | Image processing. Filtri |[Slides, notebooks]({{< relref "../computervision/lecture2.md" >}}) |03/03/2022 |
 
