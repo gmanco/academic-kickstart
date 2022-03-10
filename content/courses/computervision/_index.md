@@ -88,4 +88,6 @@ Competenze specifiche:
 | ------- | ---------------------------------------------------- | ------------------- | ---------- |
 | 1       | Introduzione al corso. Image fundamentals |[Slides, notebook]({{< relref "../computervision/lecture1.md" >}}) |02/03/2022 |
 | 2 | Image processing. Filtri |[Slides, notebooks]({{< relref "../computervision/lecture2.md" >}}) |03/03/2022 |
+| 3 | Laboratorio: Python e image processing |[Slides, notebooks]({{< relref "../computervision/lecture_lab1.md" >}}) |09/03/2022 |
+| 4 | FFT. Trasformazioni e filtri |[Slides, notebooks]({{< relref "../computervision/lecture_lab2.md" >}}) |10/03/2022 |
 
