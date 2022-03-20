@@ -90,4 +90,6 @@ Competenze specifiche:
 | 2 | Image processing. Filtri |[Slides, notebooks]({{< relref "../computervision/lecture2.md" >}}) |03/03/2022 |
 | 3 | Laboratorio: Python e image processing |[Slides, notebooks]({{< relref "../computervision/lecture_lab1.md" >}}) |09/03/2022 |
 | 4 | FFT. Trasformazioni e filtri |[Slides, notebooks]({{< relref "../computervision/lecture_lab2.md" >}}) |10/03/2022 |
+| 5 | Edge detection. Canny Edge Detector |[Slides, notebooks]({{< relref "../computervision/lecture3.md" >}}) |16/03/2022 |
+| 6 | Introduzione alla classificazione. Features: Harry's corner detection |[Slides, notebooks]({{< relref "../computervision/lecture4.md" >}}) |17/03/2022 |
 

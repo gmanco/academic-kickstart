@@ -1,5 +1,5 @@
 ---
-title: "Adversarial Regularized Reconstruction forAnomaly Detection and Generation"
+title: "Adversarial Regularized Reconstruction for Anomaly Detection and Generation"
 date: 2022-03-04
 publishDate: 2020-05-29T11:18:44.874439Z
 authors: ["Angelica Liguori","Giuseppe Manco","Francesco Sergio Pisani","Ettore Ritacco"]
@@ -8,7 +8,6 @@ abstract: "We propose ARN, a semisupervised anomaly detection and generation met
 featured: true
 publication: "*IEEE International Conference on Data Mining, {ICDM} 2021, Auckland,
                New Zealand, December 7-10, 2021*"
-url_pdf: "icdm_arn.pdf"
 url_code: 'https://github.com/arnwg/arn'
 doi: "10.1109/ICDM51629.2021.00145"
 
