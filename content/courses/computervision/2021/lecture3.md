@@ -7,7 +7,7 @@ date: "2020-03-26T00:00:00+01:00"
 draft: false
 
 menu:
-  computervision:
+  2021:
     parent: Lezioni
     weight: 4
 

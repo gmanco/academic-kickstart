@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 11
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 9
+weight: 10
 ---
 
 Grafi di computazione e modelli non lineari. Reti Convoluzionali. LeNet-5. 
@@ -21,6 +21,7 @@ Materiale didattico:
 
 -  Modelli non lineari ([slides](../pdf/7.Reti neurali_parte1.pdf))
 - Reti convoluzionali ([slides](../pdf/7.Reti neurali_parte2.pdf))
+- Architetture convoluzionali
 - [Notebook](https://github.com/gmanco/cv_notebooks/blob/master/7.Neural_networks.ipynb) di accompagnamento
 
 

@@ -1,6 +1,6 @@
 ---
 title: Concetti fondamentali su Image processing e analysis
-linktitle: Concetti fondamentali
+linktitle: Concetti fondamentali. Filtri
 toc: true
 type: docs
 date: "2020-03-26T00:00:00+01:00"
@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 4
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 2
 ---
 
 Manipolazione di immagini. Manipolazione spaziale. Filtri.

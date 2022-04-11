@@ -1,6 +1,6 @@
 ---
 title: Edge Detection. Hough Transform
-linktitle: lab_hough
+linktitle: "Laboratorio: Edge detection, Hough Tranform"
 toc: true
 type: docs
 date: "2020-03-26T00:00:00+01:00"
@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 9
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 9
+weight: 7
 ---
 
 Python & image processing.

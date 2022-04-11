@@ -1,6 +1,6 @@
 ---
 title: Feature Detection SIFT
-linktitle: lab_sift
+linktitle: "Feature Descriptors: SIFT"
 toc: true
 type: docs
 date: "2020-03-26T00:00:00+01:00"
@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 10
+    weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 10
+weight: 9
 ---
 
 Esercitazione 4

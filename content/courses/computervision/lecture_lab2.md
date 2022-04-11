@@ -1,6 +1,6 @@
 ---
 title: Frequency Filtering
-linktitle: frequency_filtering
+linktitle: Laboratorio, Frequency Filtering
 toc: true
 type: docs
 date: "2020-03-26T00:00:00+01:00"

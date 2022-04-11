@@ -9,10 +9,10 @@ draft: false
 menu:
   computervision:
     parent: Lezioni
-    weight: 2
+    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 1
 ---
 
 Introduzione al corso. Image Processing, Analysis e Computer Vision. Concetti fondamentali su Image processing e analysis: Image Basics, Manipolazione di immagini. Introduzione alle librerie Python per Image Processing. 
