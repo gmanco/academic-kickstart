@@ -95,6 +95,10 @@ Competenze specifiche:
 | 7 | Laboratorio: Edge detection. Hough Transform |[Slides, notebooks]({{< relref "../computervision/lecture_lab3.md" >}}) |23/03/2022 |
 | 8 | Feature modeling. SIFT. |[Slides, notebooks]({{< relref "../computervision/lecture_lab4.md" >}}) |24/03/2022 |
 | 9 | Reti Neurali. Convoluzione. |[Slides, notebooks]({{< relref "../computervision/lecture5.md" >}}) |30/03/2022, 31/03/2022 |
-| 10 | Architetture Convoluzionalie |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |06/04/2022 |
+| 10 | Architetture Convoluzionali. |[Slides, notebooks]({{< relref "../computervision/lecture6.md" >}}) |06/04/2022 |
 | 11 | Object Detection. Multi-shot detection. |[Slides, notebooks]({{< relref "../computervision/lecture7.md" >}}) |07/04/2022 |
+| 12 | Backpropagation e architetture convolutionali. Saliency maps e activation maps. |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |13/04/2022 |
+| 13 | Batch normalization e transfer learning |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |20/04/2022 |
+| 14 | Single-Shot Object detection. Activity recognition |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |21/04/2022 |
+| 15 | Segmentation |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |27/04/2022, 28/04/2022, 04/05/2022 |
 
