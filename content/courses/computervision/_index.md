@@ -100,5 +100,10 @@ Competenze specifiche:
 | 12 | Backpropagation e architetture convolutionali. Saliency maps e activation maps. |[Slides, notebooks]({{< relref "../computervision/lecture_lab5.md" >}}) |13/04/2022 |
 | 13 | Batch normalization e transfer learning |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |20/04/2022 |
 | 14 | Single-Shot Object detection. Activity recognition |[Slides, notebooks]({{< relref "../computervision/lecture_lab6.md" >}}) |21/04/2022 |
-| 15 | Segmentation |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |27/04/2022, 28/04/2022, 04/05/2022 |
+| 15 | Segmentation |[Slides, notebooks]({{< relref "../computervision/lecture8.md" >}}) |27/04/2022, 28/04/2022 |
+| 16 | Segmentation |[Slides, notebooks]({{< relref "../computervision/lecture_lab8.md" >}}) |04/05/2022 |
+| 17 | Optical flow. Depth estimation |[Slides, notebooks]({{< relref "../computervision/lecture_lab9.md" >}}) |05/05/2022 |
+| 18 | Generative models: Variational Autoencoders, GAN |[Slides, notebooks]({{< relref "../computervision/lecture9.md" >}}) |11/05/2022, 18/05/2022, 19/05/2022 |
+| 20 | Seminari | |25/05/2022 |
+| 21 | Presentazione progetto |[Slides, notebooks]({{< relref "../computervision/lecture_lab10.md" >}}) |26/05/2022 |
 
