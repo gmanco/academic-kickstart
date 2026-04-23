@@ -28,6 +28,28 @@ You can choose from one of the following four methods to install:
 
 Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
+## Automatic publication sync (DBLP)
+
+This repository includes a publication sync workflow for Hugo Academic:
+
+- config: `scripts/publications_sync.json`
+- runner: `scripts/update_publications.sh`
+- sync logic: `scripts/sync_publications.py`
+
+Run:
+
+```bash
+bash scripts/update_publications.sh
+```
+
+What it does:
+
+- fetches publications from DBLP (`pid`)
+- updates `content/publication/<slug>/index.md`
+- updates `content/publication/<slug>/cite.bib`
+- preserves existing custom fields (e.g. `featured`, `url_code`, `url_slides`, `tags`)
+- fills `abstract` from DBLP or OpenAlex (via DOI when available)
+
 ## Ecosystem
 
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site

@@ -1,0 +1,18 @@
+---
+title: Link Polarity Prediction from Sparse and Noisy Labels via Multiscale Social Balance
+date: '2024-01-01'
+publishDate: '2026-04-23T15:56:35Z'
+authors:
+- Marco Minici
+- Federico Cinus
+- Francesco Bonchi
+- Giuseppe Manco
+publication_types:
+- '2'
+abstract: Signed Graph Neural Networks (SGNNs) have recently gained attention as an effective tool for several learning tasks on signed networks, i.e., graphs where edges have an associated polarity. One of these tasks is to predict the polarity of the links for which this information is missing, starting from the network structure and the other available polarities. However, when the available polarities are few and potentially noisy, such a task becomes challenging. In this work, we devise a semi-supervised learning framework that builds around the novel concept of \emph{multiscale social balance} to improve the prediction of link polarities in settings characterized by limited data quantity and quality. Our model-agnostic approach can seamlessly integrate with any SGNN architecture, dynamically reweighting the importance of each data sample while making strategic use of the structural information from unlabeled edges combined with social balance theory. Empirical validation demonstrates
+  that our approach outperforms established baseline models, effectively addressing the limitations imposed by noisy and sparse data. This result underlines the benefits of incorporating multiscale social balance into SGNNs, opening new avenues for robust and accurate predictions in signed network analysis.
+publication: '*CoRR*'
+url_pdf: https://doi.org/10.48550/arXiv.2407.15643
+doi: 10.48550/arxiv.2407.15643
+featured: false
+---

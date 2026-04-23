@@ -1,0 +1,75 @@
+{
+  "author_name": "Giuseppe Manco",
+  "output_dir": "content/publication",
+  "dblp": {
+    "pid": "m/GiuseppeManco-1"
+  },
+  "filters": {
+    "min_year": 2000,
+    "allowed_entry_types": ["article", "inproceedings", "proceedings"]
+  },
+  "featured_policy": {
+    "enabled": true,
+    "last_n_years": 3,
+    "require_abstract": true,
+    "require_image": true,
+    "enforce_featured_abstract_retrieval": true,
+    "auto_generate_missing_featured_images": true,
+    "interactive_image_review": true,
+    "require_author_name": "",
+    "excluded_venue_keywords": [
+      "workshop",
+      "workshops"
+    ],
+    "excluded_title_keywords": [
+      "integrity in social networks and media",
+      "workshop"
+    ],
+    "high_impact_venue_keywords": [
+      "neurips",
+      "icml",
+      "iclr",
+      "kdd",
+      "the web conference",
+      "www ",
+      "sigir",
+      "wsdm",
+      "cikm",
+      "aaai",
+      "ijcai",
+      "icdm",
+      "icde",
+      "sigmod",
+      "vldb",
+      "cvpr",
+      "iccv",
+      "eccv",
+      "acl",
+      "emnlp",
+      "naacl",
+      "transactions on knowledge and data engineering",
+      "tkde",
+      "journal of machine learning research",
+      "jmlr",
+      "data mining and knowledge discovery",
+      "machine learning",
+      "ieee access",
+      "information processing and management",
+      "future generation computer systems",
+      "expert systems with applications",
+      "wires data mining and knowledge discovery",
+      "acm transactions on information systems",
+      "tois",
+      "acm transactions on intelligent systems and technology",
+      "tist"
+    ],
+    "pinned_slugs": [],
+    "disabled_image_slugs": [],
+    "regenerate_featured_images": false
+  },
+  "abstract_enrichment": {
+    "enabled": true,
+    "provider": "openalex",
+    "mailto": ""
+  }
+}
